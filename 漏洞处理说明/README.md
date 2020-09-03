@@ -27,13 +27,13 @@ OpenHarmony已经采用本文中描述的安全披露和响应策略，以确保
 
 ## 安全委员会（SC）
 
-安全委员会（SC）负责整个社区对安全问题的响应，包括内部沟通和外部披露，但整个过程需要在相关开发人员和发布经理的协助下完成。SC将由订阅了[OpenHarmony安全邮件列表（私有）](security@openharmony.io)的志愿者组成。
+安全委员会（SC）负责整个社区对安全问题的响应，包括内部沟通和外部披露，但整个过程需要在相关开发人员和发布经理的协助下完成。SC将由订阅了OpenHarmony安全邮件列表（私有）security@openharmony.io 的志愿者组成。
 
 
 
 ### 使命和工作职责
 
-SC的工作职责请参考[README](README.md)
+SC的工作职责请参考[README](https://gitee.com/openharmony/security/blob/master/README.md)
 
 
 
@@ -51,7 +51,7 @@ SC的工作职责请参考[README](README.md)
 
 #### 加入
 
-- SC一般由7个成员组成
+- SC一般由5~7个成员组成
 
 - 新成员通常从技术指导委员会、发行经理或补丁发行经理、以及SIG内负责安全工作的核心成员中提名。
 
@@ -236,18 +236,15 @@ SIG内的bug被团队成员确认为安全漏洞，团队成员将对应的Issue
 **修复发布日**（在问题确认后1~21天内完成）
 
 + 在即将发布前，至少提前24小时通过电子邮件通知[发行商](private-distributors-list.md)，通知信息应包含公共消息，公告的日期。
-+ 修复负责人会将补丁推送到master分支和相关的发行版本分支。修复团队会使用/lgtm和/approve通过
++ 修复负责人会将补丁推送到master分支和相关的发行版本分支。
 + 版本的发行经理会尽快merge这些PR。此时不应更改提交内容，以防止与发送给发行商的补丁程序产生不应有的冲突，以及在分支选择patch时发生冲突。
 + 发行经理应确保所有的二进制文件通过build，可公开使用且正常运行。
 + 修复负责人将提供新版本号、CVE编号（如有需要）、严重性和影响以及二进制文件的位置的信息给披露负责人，以支撑更广泛的分发和用户操作。此披露负责人将尽早将公告更新到社区页面，并应包括用户在升级到固定版本之前可以采用的任何缓解措施。公告将通过以下渠道发送
-  + security@OpenHarmony.org
   + dev@openharmony.io
-  + [社区安全页面](https://OpenHarmony.org/zh/security.html)
-  +  在https://gitee.com/OpenHarmony/issues 中打开问题，并标记成`area/security`，并以相关CVE ID为前缀
+  + [鸿蒙网站安全页面](https://harmonyostest.devccsrnd.hwcloudtest.cn:3089/cn/home)
+  + [鸿蒙社区漏洞公告页面](https://gitee.com/openharmony/security/blob/master/%E6%BC%8F%E6%B4%9E%E5%85%AC%E5%91%8A/README.md)
+  +  在https://gitee.com/openharmony/security/issues 中打开问题，并标记成`security`，并以相关CVE ID为前缀
   
-+ 如涉及，修复负责人将从私人安全存储库中删除修复团队
-
-
 
 ### 7、修复流程回顾
 
@@ -259,7 +256,7 @@ SIG内的bug被团队成员确认为安全漏洞，团队成员将对应的Issue
 
 
 ## 安全问题处理和披露流程图示
-[图片上传中…(image-i8vUTgHlimtvQS1ys0Vo)]
+image-i8vUTgHlimtvQS1ys0Vo
 
 ## 发行商名单
 
