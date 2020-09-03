@@ -15,7 +15,7 @@
 您可以通过电子邮件将您发现的安全问题的详细信息以及错误报告发送到私有的security@openharmony.io邮箱列表。请你采用[安全问题模板](template-security-bug.md)。
 
 
-### 我应该合适上报漏洞
+### 我应该何时上报漏洞
 
 - 您认为你在OpenHarmony中发现了潜在的安全漏洞
 - 您不确定漏洞可能会怎样影响OpenHarmony
