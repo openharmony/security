@@ -154,7 +154,7 @@ SIG内的bug被团队成员确认为安全漏洞，团队成员将对应的Issue
 
 ####  外部上报
 
-如果您知道一个安全漏洞，不在OpenHarmony安全团队已经处理的公开安全漏洞的列表之内，烦请立即发送电子邮件至security@OpenHarmony.org通知SC，以便于他们可以启动补丁、发布和公告过程。
+如果您知道一个安全漏洞，不在OpenHarmony安全团队已经处理的公开安全漏洞的列表之内，烦请立即发送电子邮件至security@openharmony.io通知SC，以便于他们可以启动补丁、发布和公告过程。
 
 请采用[安全流程电子邮件模板](template-security-bug.md)，同时您可以使用[OpenHarmony安全委员会](README.md)成员的GPG秘钥将电子邮件加密到此邮件。收到上报邮件后，安全问题分发员会在其repository内新建一个安全Issue。
 
