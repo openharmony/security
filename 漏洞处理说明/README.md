@@ -51,7 +51,7 @@ SC的工作职责请参考[README](https://gitee.com/openharmony/security/blob/m
 
 #### 加入
 
-- SC一般由5~7个成员组成
+- SC一般由3~7个成员组成
 
 - 新成员通常从技术指导委员会、发行经理或补丁发行经理、以及SIG内负责安全工作的核心成员中提名。
 
