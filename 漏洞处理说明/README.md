@@ -87,9 +87,11 @@ SIG内的bug被团队成员确认为安全漏洞，团队成员将对应的Issue
 ####  外部上报
 
 如果您知道一个安全漏洞，不在OpenHarmony安全团队已经处理的公开安全漏洞的列表之内，你可以按照以下方式处理：
-**处理方案一:** 烦请立即发送电子邮件至scy.openharmony@openatom.org通知安全响应组，以便于安全响应组可以启动补丁、发布和公告过程。
+
+`处理方案一:`  烦请立即发送电子邮件至scy.openharmony@openatom.org通知安全响应组，以便于安全响应组可以启动补丁、发布和公告过程。
 请采用[安全流程电子邮件模板](template-security-bug.md)，同时您可以使用[OpenHarmony安全委员会](README.md)成员的GPG秘钥将电子邮件加密到此邮件。收到上报邮件后，安全问题分发员会在其repository内新建一个安全Issue。
-**处理方案二:** 你可以在https://gitee.com/openharmony/security/issues 中创建问题，并标记成`security`，创建问题的时候请选择“这个ISSUE涉及到安全隐私问题，提交后不公开该ISSUE”。
+
+`处理方案二:` 你可以在https://gitee.com/openharmony/security/issues 中创建问题，并标记成`security`，创建问题的时候请选择“这个ISSUE涉及到安全隐私问题，提交后不公开该ISSUE”。
 
 如果有需要，安全响应组将询问您是否可以通过负责人的方式秘密披露此问题。如果您反对，我们将采用公开披露的方式。
 
