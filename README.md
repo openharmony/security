@@ -42,10 +42,10 @@ OpenHarmony安全委员会（SC）是负责接收和响应OpenHarmony产品安�
 
 SC和产品发布相关，所以和发布经理有很多工作关联，SC会负责让产品安全的发布。请参考使用正确的联系方式以获得最佳和最快的响应。
 
-| 清单或群组                             | 类型    | 用途                                                         |
+| 清单或群组                             | 简介    | 用途说明                                                       |
 | -------------------------------------- | ------- | ------------------------------------------------------------ |
-| security@openharmony.io                 | Private | OpenHarmony安全披露邮箱。 |
-| security-private@openharmony.io            | Private | SC的私有内部讨论邮件。 |
+| security@openharmony.io                 | 安全问题邮箱 | 开发者可反馈OpenHarmony安全问题到此邮箱。 |
+| security-private@openharmony.io            | 安全组邮件列表| 安全组成员安全问题处理讨论邮件列表，安全组成员可订阅。 |
 
 
 
