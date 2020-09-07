@@ -59,4 +59,4 @@ SC和产品发布相关，所以和发布经理有很多工作关联，SC会负�
 
 ## 社区讨论和支持
 
-在[社区页面](https://harmonyostest.devccsrnd.hwcloudtest.cn:3089/cn/home)上了解更多鸿蒙的详细知识以及如何和OpenHarmony社区做安全互动
+在[社区页面](https://gitee.com/openharmony)上了解更多鸿蒙的详细知识以及如何和OpenHarmony社区做安全互动
