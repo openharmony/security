@@ -12,7 +12,7 @@
 
 ## 成员
 
-安全问题响应组负责对OpenHarmony安全问题进行分类和处理，以下是产品安全问题响应组现任成员：
+安全问题处理组负责对OpenHarmony安全问题进行分类和处理，以下是产品安全问题处理组现任成员：
 
 + [张阿东](https://gitee.com/zhangadong)，zhangadong@huawei.com
 + [张林利](https://gitee.com/almighty1982)，linli.zhang@huawei.com
