@@ -74,7 +74,7 @@ OpenHarmony已经采用本文中描述的安全披露和响应策略，以确保
 ####  CVE例行扫描
 
 - OpenHarmony社区会采用XXX漏洞扫描工具，对社区上使用的上游社区软件包公开披露的漏洞进行例行扫描和同步。
-- 扫描出的漏洞会按照[安全问题模板](template-security-bug.md)的格式向对应的SIG推送带有“CVE”标签的Issue
+- 扫描出的漏洞会向对应的SIG推送带有“CVE”标签的Issue
 
 
 
