@@ -23,7 +23,7 @@
 `处理方案一:`  烦请立即发送电子邮件至scy.openharmony@openatom.org通知安全问题响应组，以便于安全问题响应组可以启动补丁、发布和公告过程。
 收到上报邮件后，安全问题分发员会在社区内新建一个安全Issue。
 
-`处理方案二:` 你可以在https://gitee.com/openharmony/security/issues 中创建问题，并标记成`security`，创建问题的时候请选择“这个ISSUE涉及到安全隐私问题，提交后不公开该ISSUE”。
+`处理方案二:` 你可以在https://gitee.com/openharmony/security/issues 中创建问题，并标记成`security`，创建问题的时候请选择“私有”Issue。
 
 如果有需要，安全问题响应组将询问您是否可以通过负责人的方式秘密披露此问题。如果您反对，我们将采用公开披露的方式。
 
