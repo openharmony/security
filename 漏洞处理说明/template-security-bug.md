@@ -12,7 +12,7 @@
 
 你好，OpenHarmony社区。
 
-在$COMPONENT版本的$OLDVERSION或更早版本发现了一个安全问题。严重等级是$SEVERITY，希望能够升级到$COMPONENT解决此问题。
+在`COMPONENT`版本的`OLDVERSION`或更早版本发现了一个安全问题。严重等级是 `严重`/`一般`，希望能够升级到`COMPONENT`解决此问题。
 
 
 
