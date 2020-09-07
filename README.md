@@ -31,7 +31,7 @@ OpenHarmony安全问题响应组是负责接收和响应OpenHarmony产品安全�
 
 
 
-## 会议时间
+### 会议时间
 
 - 每周三上午10:00~12:00，通过weLink会议召开
 
@@ -43,8 +43,8 @@ OpenHarmony安全问题响应组是负责接收和响应OpenHarmony产品安全�
 
 | 清单或群组                             | 简介    | 用途说明                                                       |
 | -------------------------------------- | ------- | ------------------------------------------------------------ |
-| security@openharmony.io                 | 安全问题邮箱 | 开发者可反馈OpenHarmony安全问题到此邮箱。 |
-| security-private@openharmony.io            | 安全组邮件列表| 安全组成员安全问题处理讨论邮件列表，安全组成员可订阅。 |
+| scy.openharmony@openatom.org                 | 安全问题邮箱 | 开发者可反馈OpenHarmony安全问题到此邮箱。 |
+| scy-priv.openharmony@openatom.org            | 安全组邮件列表| 安全组成员安全问题处理讨论邮件列表，安全组成员可订阅。 |
 
 
 
@@ -56,6 +56,6 @@ OpenHarmony安全问题响应组是负责接收和响应OpenHarmony产品安全�
 
 
 
-## 社区讨论和支持
+### 社区讨论和支持
 
 在[社区页面](https://gitee.com/openharmony)上了解更多鸿蒙的详细知识以及如何和OpenHarmony社区做安全互动
