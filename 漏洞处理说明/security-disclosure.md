@@ -20,7 +20,7 @@
 
 如果您知道一个安全漏洞，不在OpenHarmony安全团队已经处理的公开安全漏洞的列表之内，你可以按照以下方式处理：
 
-`处理方案一:`  烦请立即发送电子邮件至scy.openharmony@openatom.org通知安全问题响应组，以便于安全问题响应组可以启动补丁、发布和公告过程。
+`处理方案一:`  烦请立即发送电子邮件至scy@openharmony.io通知安全问题响应组，以便于安全问题响应组可以启动补丁、发布和公告过程。
 收到上报邮件后，安全问题分发员会在社区内新建一个安全Issue。
 
 `处理方案二:` 你可以在https://gitee.com/openharmony/security/issues 中创建问题，并标记成`security`，创建问题的时候请选择“私有”Issue。
