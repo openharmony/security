@@ -43,9 +43,9 @@
 
 ### 安全发布流程
 
-关于如何上报安全问题，如何获取安全补丁等安全相关事宜，请参考[安全披露指南](/漏洞处理说明/security-disclosure.md)
+关于如何上报安全问题，如何获取安全补丁等安全相关事宜，请参考[安全披露指南](/zh/security-process/security-disclosure.md)
 
-了解OpenHarmony社区的安全处理流程和安全策略，请参考[安全处理流程](/漏洞处理说明/README.md)
+了解OpenHarmony社区的安全处理流程和安全策略，请参考[安全处理流程](/zh/security-process/README.md)
 
 
 
