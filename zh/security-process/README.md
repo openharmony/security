@@ -157,7 +157,7 @@ SIG内的bug被团队成员确认为安全漏洞，团队成员将对应的Issue
 
 **修复发布日**（在问题确认后1~21天内完成）
 修复负责人将提供新版本号、CVE编号（如有需要）、严重性和影响以及二进制文件的位置的信息给披露负责人，以支撑更广泛的分发和用户操作。此披露负责人将尽早将公告更新到社区页面，并应包括用户在升级到固定版本之前可以采用的任何缓解措施。公告将通过以下渠道发送
-  + [鸿蒙社区漏洞公告页面](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/README.md)
+  + [openharmony社区漏洞公告页面](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/README.md)
   
 
 ### 7、修复流程回顾
