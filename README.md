@@ -1,4 +1,4 @@
-# 安全问题响应组
+# 安全问题响应
 
 本文档主要介绍安全问题响应处理的相关流程和相关运作方式。
 
@@ -14,9 +14,9 @@
 
 安全问题响应组现任成员：
 
-+ [张阿东](https://gitee.com/zhangadong)，zhangadong@huawei.com
-+ [张林利](https://gitee.com/almighty1982)，linli.zhang@huawei.com
-+ [林轩宇](https://gitee.com/lin-xuanyu)，linxuanyu1@huawei.com
++ [zhangadong](https://gitee.com/zhangadong)
++ [almighty1982](https://gitee.com/almighty1982)
++ [lin-xuanyu](https://gitee.com/lin-xuanyu)
 
 准成员：
 
