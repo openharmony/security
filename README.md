@@ -12,7 +12,7 @@
 
 ## 成员
 
-安全问题响应组现任成员：
+安全问题响应成员：
 
 + [zhangadong](https://gitee.com/zhangadong)
 + [almighty1982](https://gitee.com/almighty1982)
