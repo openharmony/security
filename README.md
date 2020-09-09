@@ -18,10 +18,6 @@
 + [almighty1982](https://gitee.com/almighty1982)
 + [lin-xuanyu](https://gitee.com/lin-xuanyu)
 
-准成员：
-
-- 
-
 
 
 ### 会议时间
