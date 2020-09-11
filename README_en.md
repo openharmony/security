@@ -1,4 +1,5 @@
 # Response to Security Issues
+English | [简体中文](./README.md)
 
 This document describes the process and operations for responding to and handling security issues.
 
