@@ -6,7 +6,7 @@ Contents
 
 + [Security Issue Response Team](#Security-Issue-Response-Team)
 + [Responsibilities](#Responsibilities)
-+ [Security Issue Handling and Disclosure Processes](#Security-Issue-Handling-and-Disclosure-Processes)
++ [Security Issue Handling and Disclosure Processes](# "Security Issue Handling and Disclosure Processes")
      + [Collecting Security Issues](#Collecting-Security-Issues)
      + [Confirming Security Issues](#Confirming-Security-Issues)
      + [Setting up a Fixing Team](#Setting-up-a-Fixing-Team)
