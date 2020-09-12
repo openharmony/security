@@ -4,18 +4,18 @@ OpenHarmony has adopted the security disclosure and response policies described 
 
 Contents
 
-+ [Security Issue Response Team](#Security-Issue-Response-Team)
-+ [Responsibilities](#Responsibilities)
++ [Security Issue Response Team](# "Security Issue Response Team")
++ [Responsibilities](# "Responsibilities")
 + [Security Issue Handling and Disclosure Processes](# "Security Issue Handling and Disclosure Processes")
-     + [Collecting Security Issues](#Collecting-Security-Issues)
-     + [Confirming Security Issues](#Confirming-Security-Issues)
-     + [Setting up a Fixing Team](#Setting-up-a-Fixing-Team)
-      + [Formulating a Fixing Plan](#Formulating-a-Fixing-Plan)
-             + [Evaluating Security Issue Impact](#Evaluating-Security-Issue-Impact)
-        + [Responding to Security Issues](#Responding-to-Security-Issues)
-     + [Organizing Patch Development](#Organizing-Patch-Development)
-     + [Disclosing the Fixing Progress](#Disclosing-the-Fixing-Progress)
-  + [Reviewing the Fixing Process](#Reviewing-the-Fixing-Process)
+     + [Collecting Security Issues](# "Collecting Security Issues")
+     + [Confirming Security Issues](# "Confirming Security Issues")
+     + [Setting up a Fixing Team](# "Setting up a Fixing Team")
+      + [Formulating a Fixing Plan](# "Formulating a Fixing Plan")
+             + [Evaluating Security Issue Impact](# "Evaluating Security Issue Impact")
+        + [Responding to Security Issues](# "Responding to Security Issues")
+     + [Organizing Patch Development](# "Organizing Patch Development")
+     + [Disclosing the Fixing Progress](# "Disclosing the Fixing Progress")
+  + [Reviewing the Fixing Process](# "Reviewing the Fixing Process")
 
 
 ## Security Issue Response Team
