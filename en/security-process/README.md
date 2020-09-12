@@ -11,7 +11,7 @@ Contents
      + [Confirming Security Issues](# "Confirming Security Issues")
      + [Setting up a Fixing Team](# "Setting up a Fixing Team")
       + [Formulating a Fixing Plan](# "Formulating a Fixing Plan")
-             + [Evaluating Security Issue Impact](# "Evaluating Security Issue Impact")
+        + [Evaluating Security Issue Impact](# "Evaluating Security Issue Impact")
         + [Responding to Security Issues](# "Responding to Security Issues")
      + [Organizing Patch Development](# "Organizing Patch Development")
      + [Disclosing the Fixing Progress](# "Disclosing the Fixing Progress")
