@@ -7,15 +7,15 @@ Contents
 + [Security Issue Response Team](# "Security Issue Response Team")
 + [Responsibilities](# "Responsibilities")
 + [Security Issue Handling and Disclosure Processes](# "Security Issue Handling and Disclosure Processes")
-     + [Collecting Security Issues](# "Collecting Security Issues")
-     + [Confirming Security Issues](# "Confirming Security Issues")
-     + [Setting up a Fixing Team](# "Setting up a Fixing Team")
-      + [Formulating a Fixing Plan](# "Formulating a Fixing Plan")
+     + [Collecting Security Issues](# "1. Collecting Security Issues")
+     + [Confirming Security Issues](# "2. Confirming Security Issues")
+     + [Setting up a Fixing Team](# "3. Setting up a Fixing Team")
+     + [Formulating a Fixing Plan](# "4. Formulating a Fixing Plan")
         + [Evaluating Security Issue Impact](# "Evaluating Security Issue Impact")
         + [Responding to Security Issues](# "Responding to Security Issues")
-     + [Organizing Patch Development](# "Organizing Patch Development")
-     + [Disclosing the Fixing Progress](# "Disclosing the Fixing Progress")
-  + [Reviewing the Fixing Process](# "Reviewing the Fixing Process")
+     + [Organizing Patch Development](# "5. Organizing Patch Development")
+     + [Disclosing the Fixing Progress](# "6. Disclosing the Fixing Progress")
+  + [Reviewing the Fixing Process](# "7. Reviewing the Fixing Process")
 
 
 ## Security Issue Response Team
