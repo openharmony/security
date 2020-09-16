@@ -12,11 +12,11 @@ You can obtain OpenHarmony product security notices and disclosure information f
 
 We thank all security researchers and users who report security vulnerabilities to the OpenHarmony open-source community. The community conducts a comprehensive investigation on the security vulnerabilities you report.
 
- **1. Internal reporting ** 
+ **1. Internal reporting** 
 
 If a bug in SIG is confirmed as a security vulnerability, the community will change the corresponding issue to a private issue, add the security issue label, and add the priority label as needed. The community security issue response team will periodically check the updates of such issues.
 
- **2. External reporting ** 
+ **2. External reporting** 
 
 If a security vulnerability is not on the list of public security vulnerabilities that the OpenHarmony security team has handled, you can handle it as follows:
 
