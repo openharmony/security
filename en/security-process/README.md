@@ -146,8 +146,9 @@ Note: The fixing owner has the right to classify vulnerabilities by severity.
 
 As the fix progresses, the fixing owner needs to submit an overall communication plan for the wider community. The overall communication should be started after the fixing team has developed the fixing or mitigation measures so that an achievable plan can be delivered to users.
 
-**Fix Release Date**
-The fixing owner provides the new version number, security issue ID (if necessary), severity and impact, and location of binary files to the disclosure owner on the fixing release date within 1 to 21 days after the issue is confirmed to support wider distribution and user operations. The disclosure owner places a notice in the community as soon as possible and should include mitigation measures that users can take before upgrading to the fixed version. Notices will be placed on the
+**Fix Release Date** （within 1 to 21 days after the issue is confirmed）
+
+The fixing owner provides the new version number, security issue ID (if necessary), severity and impact, and location of binary files to the disclosure owner to support wider distribution and user operations. The disclosure owner places a notice in the community as soon as possible and should include mitigation measures that users can take before upgrading to the fixed version. Notices will be placed on the:
   + [community vulnerability notice page](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/README.md)
   
 
