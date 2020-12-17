@@ -17,6 +17,7 @@
 安全问题响应成员：
 
 + [zhangadong](https://gitee.com/zhangadong)
++ [comcrazy](https://gitee.com/comcrazy)
 + [almighty1982](https://gitee.com/almighty1982)
 + [lin-xuanyu](https://gitee.com/lin-xuanyu)
 
