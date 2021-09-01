@@ -18,8 +18,6 @@
 
 + [zhangadong](https://gitee.com/zhangadong)
 + [ding_haihua](https://gitee.com/ding_haihua)
-+ [comcrazy](https://gitee.com/comcrazy)
-+ [almighty1982](https://gitee.com/almighty1982)
 
 
 
