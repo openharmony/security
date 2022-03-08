@@ -32,8 +32,9 @@ To get the best and fastest response, contact the security issue response team i
 
 | List or Group                             | Description    | Purpose                                                       |
 | -------------------------------------- | ------- | ------------------------------------------------------------ |
-| scy@openharmony.io                 | Security issue email | You can send OpenHarmony security issues to this email. |
-| scy-priv@openharmony.io            | Security group email list| The security group members can subscribe to this email list to discuss security issues. |
+| scy@openharmony.io                 | Security issue email | You can send OpenHarmony security issues to this email. Please use the [public key](https://gitee.com/openharmony/security/publicKey/Scy-OpenHarmony_publickey.asc) to encrypt your mail.|
+| scy-priv@openharmony.io            | Security group email list | The security group members can subscribe to this email list to discuss security issues. |
+| security-bulletin@openharmony.io   | Security bulletins email list | Developers can obtain the latest security bulletins by subscribing to this email list. |
 
 
 
