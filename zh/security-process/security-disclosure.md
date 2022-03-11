@@ -20,7 +20,7 @@
 
 如果您知道一个安全漏洞，不在OpenHarmony社区已经处理的公开安全漏洞的列表之内，你可以按照以下方式处理：
 
-`邮件通知:` 烦请立即发送电子邮件至scy@openharmony.io通知安全问题响应组，以便于社区可以启动补丁、发布和公告过程。我们强烈建议您使用[公钥](https://gitee.com/openharmony/security/publicKey/Scy-OpenHarmony_publickey.asc)对邮件进行加密。
+`邮件通知:` 烦请立即发送电子邮件至scy@openharmony.io通知安全问题响应组，以便于社区可以启动补丁、发布和公告过程。我们强烈建议您使用[公钥](/../../publicKey/Scy-OpenHarmony_publickey.asc)对邮件进行加密。
 收到上报邮件后，社区安全问题响应组会在社区内新建一个安全Issue。
 
 `社区Issue:` 你可以在发现问题的社区中创建问题Issue，并标记成`安全问题`，创建问题的时候请选择“私有”Issue。

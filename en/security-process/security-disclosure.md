@@ -20,7 +20,7 @@ If a bug in SIG is confirmed as a security vulnerability, the community will cha
 
 If a security vulnerability is not on the list of public security vulnerabilities that the OpenHarmony security team has handled, you can handle it as follows:
 
-`Email notification: ` Please immediately send an email to scy@openharmony.io to notify the security issue response team so that the team can start the patch, release, and announcement processes.We strongly recommend you use the [public key](https://gitee.com/openharmony/security/publicKey/Scy-OpenHarmony_publickey.asc) to encrypt your mail. After receiving the email, the security issue distributor creates a security issue in the community.
+`Email notification: ` Please immediately send an email to scy@openharmony.io to notify the security issue response team so that the team can start the patch, release, and announcement processes.We strongly recommend you use the [public key](/../../publicKey/Scy-OpenHarmony_publickey.asc) to encrypt your mail. After receiving the email, the security issue distributor creates a security issue in the community.
 
 `Community issue: ` You can create an issue in the community where the issue is found and mark the issue as a `security issue`. When creating the issue, select the private issue type.
 
