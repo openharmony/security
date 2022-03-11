@@ -33,7 +33,7 @@
 
 | 清单或群组                             | 简介    | 用途说明                                                       |
 | -------------------------------------- | ------- | ------------------------------------------------------------ |
-| scy@openharmony.io                 | 安全问题邮箱 | 开发者可反馈OpenHarmony安全问题到此邮箱。邮件内容请使用[公钥](https://gitee.com/openharmony/security/publicKey/Scy-OpenHarmony_publickey.asc)进行加密。 |
+| scy@openharmony.io                 | 安全问题邮箱 | 开发者可反馈OpenHarmony安全问题到此邮箱。邮件内容请使用[公钥](/publicKey/Scy-OpenHarmony_publickey.asc)进行加密。 |
 | scy-priv@openharmony.io            | 安全组邮件列表| 安全组成员安全问题处理讨论邮件列表，安全组成员可订阅。 |
 | security-bulletin@openharmony.io   | 安全公告邮件列表 | 开发者通过订阅此邮件列表可获取到最新的安全问题公告。     |
 
