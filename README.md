@@ -49,4 +49,3 @@
 ### 社区讨论和支持
 
 在[社区页面](https://gitee.com/openharmony)上了解更多OpenHarmony的详细知识以及如何在OpenHarmony社区做安全互动。
-dawadwadaw
