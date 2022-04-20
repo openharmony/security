@@ -1,6 +1,6 @@
 # Response to Security Issues
 
-[English](./README_en.md) | 简体中文
+English | [简体中文](./README.md)
 
 This document describes the process and operations for responding to and handling security issues.
 
@@ -16,9 +16,9 @@ This document describes the process and operations for responding to and handlin
 
 The security issue response team has the following members:
 
-+ [zhangadong](https://gitee.com/zhangadong)
-+ [ding_haihua](https://gitee.com/ding_haihua)
-+ [louis.liuxu](https://gitee.com/louis_liuxu)
++ [Zhang Adong](https://gitee.com/zhangadong)
++ [Ding Haihua](https://gitee.com/ding_haihua)
++ [Liu Xu](https://gitee.com/louis_liuxu)
 
 
 ## Meeting Time
@@ -55,4 +55,4 @@ Learn more about OpenHarmony and how to join in and contribute to the OpenHarmon
 
 ## Acknowledgment
 
-Learn about the individuals and teams that have contributed to the security of the OpenHarmony community at [Acknowledgments](/en/security-process/Acknowledgements.md).
+Learn about the individuals and teams that have contributed to the security of the OpenHarmony community at [Acknowledgment](/en/security-process/Acknowledgement.md).
