@@ -2,12 +2,12 @@
 
 ## Overview
 
-The OpenHarmony community attaches great importance to the security of community software versions. The security issues include issues found during the routine security issue scans and internal security research, as well as security issues reported by users. The OpenHarmony Security Bounty Program (referred to as the "Program" hereinafter) aims to encourage feedback of security vulnerabilities found in the OpenHarmony community to scy@openharmony.io via emails encrypted by the ([PGP public key](/publicKey/Scy-OpenHarmony_publickey.asc). The OpenHarmony Security Issue Response Team will try to address all feedback on a case-by-case basis as soon as possible.
+The OpenHarmony community attaches great importance to the security of community software versions. The security issues include issues found during the routine security issue scans and internal security research, as well as security issues reported by users. The OpenHarmony Security Bounty Program (referred to as the "Program" hereinafter) aims to encourage feedback of security vulnerabilities found in the OpenHarmony community to scy@openharmony.io via emails encrypted by the [PGP public key](/publicKey/Scy-OpenHarmony_publickey.asc). The OpenHarmony Security Issue Response Team will try to address all feedback on a case-by-case basis as soon as possible.
 
 ## Program Scope
 |Category|Description|
 |--------|-------------------|
-|Software Version|OpenHarmony V3.1 LTS|
+|Software version|OpenHarmony V3.1 LTS|
 |Code repository|Bundle management:<br>https://gitee.com/openharmony/appexecfwk_standard<br>Distributed scheduler:<br>https://gitee.com/openharmony/distributedschedule_dms_fwk_lite<br>https://gitee.com/openharmony/distributedschedule_dms_fwk<br>Startup:<br>https://gitee.com/openharmony/startup_init_lite<br>https://gitee.com/openharmony/startup_appspawn<br>https://gitee.com/openharmony/startup_syspara_lite|
 
 ## Security Vulnerability Scoring Criteria
@@ -16,13 +16,12 @@ The Common Vulnerability Scoring System (CVSS) is used to rate and score the vul
 
 |Severity Rating|Score|
 |--------------------------|-----------------|
-|Critical|9.0 - 10.0|
-|High|7.0 - 8.9|
-|Medium|4.0 - 6.9|
-|Low|0.1 - 3.9|
+|Critical|9.0-10.0|
+|High|7.0-8.9|
+|Medium|4.0-6.9|
+|Low|0.1-3.9|
 
-VCSS calculator:
-https://www.first.org/cvss/calculator/3.1
+[VCSS calculator](https://www.first.org/cvss/calculator/3.1)
 
 ## Bounty Program
 
@@ -76,13 +75,14 @@ The vulnerabilities that are not eligible for reward include but are not limited
 - Do not access, download, modify, or delete data that does not belong to you without permission. Only PoC is allowed to prove the existence of the vulnerability.
 - Phishing or social engineering attacks are prohibited.
 - Do not use security vulnerabilities and related information for any illegal purpose. The following activities are prohibited:
-1. Access the computer information network or using resources in the computer information network without permission.
-2. Delete, modify, or add the functions of the computer information network without permission.
-3. Delete, modify, or add data or applications stored, processed, or transmitted in the computer information network without permission.
-4. Intentionally produce and spread destructive programs, such as computer viruses.
-5. Access the computer information network to obtain data stored in related website systems and platforms without permission.
-6. Other behaviors that jeopardize the security of computer information networks.
-- You should assume all compensation liabilities for any loss caused to OpenHarmony due to the above behavior. If your behavior violates laws and regulations, you should bear the corresponding legal consequences.
+  - Access the computer information network or using resources in the computer information network without permission.
+  - Delete, modify, or add the functions of the computer information network without permission.
+  - Delete, modify, or add data or applications stored, processed, or transmitted in the computer information network without permission.
+  - Intentionally produce and spread destructive programs, such as computer viruses.
+  - Access the computer information network to obtain data stored in related website systems and platforms without permission.
+  - Other behaviors that jeopardize the security of computer information networks.
+
+You should assume all compensation liabilities for any loss caused to OpenHarmony due to the above behavior. If your behavior violates laws and regulations, you should bear the corresponding legal consequences.
 
 ## Participant Restriction
 
