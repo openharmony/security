@@ -55,4 +55,4 @@ Learn more about OpenHarmony and how to join in and contribute to the OpenHarmon
 
 ## Acknowledgment
 
-Learn about the individuals and teams that have contributed to the security of the OpenHarmony community at [Acknowledgments](/en/security-process/Acknowledgement.md).
+Learn about the individuals and teams that have contributed to the security of the OpenHarmony community at [Acknowledgment](/en/security-process/Acknowledgement.md).
