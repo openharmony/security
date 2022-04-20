@@ -34,7 +34,7 @@ Contact the security issue response team using the following contact information
 | Email                            | Description                                                    | How to Use                                                      |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | scy@openharmony.io                 | Email address for receiving security issues| You can send OpenHarmony security issues to this email address. Please encrypt your email using the [public key](/publicKey/Scy-OpenHarmony_publickey.asc).|
-| security@openharmony.io            | List of email addresses of security bulletin subscribers| You can obtain the latest security bulletins by [subscribing to] (https://lists.openatom.io/postorius/lists/security.openharmony.io) this email address.    |
+| security@openharmony.io            | List of email addresses of security bulletin subscribers| You can obtain the latest security bulletins by [subscribing to](https://lists.openatom.io/postorius/lists/security.openharmony.io) this email address.    |
 | scy-priv@openharmony.io            | List of email addresses of the security group members| Security group members can discuss security issues using this email address.|
 
 ## Reporting Security Issues
@@ -43,7 +43,7 @@ Community participants are encouraged to strengthen the security of the OpenHarm
 
 ## Handling Security Vulnerabilities
 
-Security vulnerabilities are tracked and handled by specialists. For more information about the security issue handling process and policy in OpenHarmony community, see [Security Vulnerability Handling](/en/security-process/README.md).
+Security vulnerabilities are tracked and handled by specialists. For more information about the security issue handling process and policy in OpenHarmony community, see [OpenHarmony Security Vulnerability Handling Process](/en/security-process/README.md).
 
 ## Disclosing Security Vulnerabilities
 
