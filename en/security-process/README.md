@@ -23,7 +23,7 @@ The OpenHarmony community has multiple channels to collect security vulnerabilit
 |Upstream open-source software|Security vulnerability scanning tool|Security vulnerability issue|The LTS versions are scanned for security vulnerabilities every month, and issues will be submitted if security vulnerabilities are detected.|
 |Native open-source software|OpenHarmony Security Bounty Program or security researchers|scy@openharmony.io|Security vulnerabilities found in OpenHarmony can be reported via an email encrypted by using the [public key](/publicKey/Scy-OpenHarmony_publickey.asc) to scy@openharmony.io. The OpenHarmony community has launched the [OpenHarmony Security Bounty Program](/en/security-process/rewards_program.md) to encourage the reporters.|
 
-`Security vulnerability issue:`: When finding a security vulnerability, create an issue in the repository where the issue is found, select **Private**, and label the issue `Security`.
+`Security vulnerability issue`: When finding a security vulnerability, create an issue in the repository where the issue is found, select **Private**, and label the issue `Security`.
 
 ## Assessing Security Vulnerabilities
 
