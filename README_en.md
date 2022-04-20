@@ -47,7 +47,7 @@ Security vulnerabilities are tracked and handled by specialists. For more inform
 
 ## Disclosing Security Vulnerabilities
 
-For details about the disclosed security vulnerabilities in the OpenHarmony community, see [Security Bulletins] (/en/security-process/security-disclosure.md).
+For details about the disclosed security vulnerabilities in the OpenHarmony community, see [Security Bulletins](/en/security-process/security-disclosure.md).
 
 ## Community Discussion and Support
 
