@@ -27,7 +27,7 @@ The OpenHarmony community has multiple channels to collect security vulnerabilit
 
 ## Assessing Security Vulnerabilities
 
-The OpenHarmony Security Issue Response Team organizes maintainers to verify the security vulnerabilities reported. The OpenHarmony community assesses security vulnerabilities based on the mainstream [CVSS] (https://www.first.org/cvss/calculator/3.1). The table below lists the severity levels and scores of the CVSS.
+The OpenHarmony Security Issue Response Team organizes maintainers to verify the security vulnerabilities reported. The OpenHarmony community assesses security vulnerabilities based on the mainstream [CVSS](https://www.first.org/cvss/calculator/3.1). The table below lists the severity levels and scores of the CVSS.
 
 |Severity Rating|Score|
 |--------------------------|-----------------|
