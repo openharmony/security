@@ -2,7 +2,7 @@
 
 English | [简体中文](./README.md)
 
-This document describes the process and operations for responding to and handling security issues.
+This document describes the OpenHarmony Security Issue Response Team and how security issues are handled.
 
 
 ## Responsibilities
@@ -14,7 +14,7 @@ This document describes the process and operations for responding to and handlin
 
 ## Members
 
-The security issue response team has the following members:
+The Security Issue Response Team has the following members:
 
 + [zhangadong](https://gitee.com/zhangadong)
 + [ding_haihua](https://gitee.com/ding_haihua)
@@ -23,13 +23,13 @@ The security issue response team has the following members:
 
 ## Meeting Time
 
-- 10:00 to 12:00 every Wednesday morning
+- 10:00 to 12:00 (UTC +8:00) every Wednesday morning
 
 
 
 ## Contacting the Security Issue Response Team
 
-Contact the security issue response team using the following contact information:
+Contact the Security Issue Response Team using the following contact information:
 
 | Email                            | Description                                                    | How to Use                                                      |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -43,7 +43,7 @@ Community participants are encouraged to strengthen the security of the OpenHarm
 
 ## Handling Security Vulnerabilities
 
-Security vulnerabilities are tracked and handled by specialists. For more information about the security issue handling process and policy in OpenHarmony community, see [OpenHarmony Security Vulnerability Handling Process](/en/security-process/README.md).
+Security vulnerabilities are tracked and handled by specialists. For more information about the security issue handling process and policy in the OpenHarmony community, see [OpenHarmony Security Vulnerability Handling Process](/en/security-process/README.md).
 
 ## Disclosing Security Vulnerabilities
 
