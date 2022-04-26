@@ -19,7 +19,7 @@ The OpenHarmony community has multiple channels to collect security vulnerabilit
 |Source|Channel|Reporting Method|Description|
 | -------- |-------- | -------- | -------- |
 |Upstream open-source software|cve-manager|Security vulnerability issue*|cve-manager automatically collects security vulnerabilities of upstream open-source software every day and submits CVE issues using the OpenHarmony ci bot account.|
-|Upstream open-source software|Contributors|Security vulnerability issue|Community contributors submit a security vulnerability issue when finding security vulnerabilities in upstream open-source software.|
+|Upstream open-source software|Contributors|Security vulnerability issue|Community contributors submit issues regarding security vulnerabilities detected in upstream open-source software.|
 |Upstream open-source software|Security vulnerability scanning tool|Security vulnerability issue|The LTS versions are scanned for security vulnerabilities every month, and issues will be submitted if security vulnerabilities are detected.|
 |Native open-source software|OpenHarmony Security Bounty Program or security researchers|scy@openharmony.io|Security vulnerabilities found in OpenHarmony can be reported via an email encrypted by using the [public key](/publicKey/Scy-OpenHarmony_publickey.asc) to scy@openharmony.io. The OpenHarmony community has launched the [OpenHarmony Security Bounty Program](/en/security-process/rewards_program.md) to encourage the reporters.|
 
@@ -27,7 +27,7 @@ The OpenHarmony community has multiple channels to collect security vulnerabilit
 
 ## Assessing Security Vulnerabilities
 
-The OpenHarmony Security Issue Response Team organizes maintainers to verify the security vulnerabilities reported. The OpenHarmony community assesses security vulnerabilities based on the mainstream [CVSS](https://www.first.org/cvss/calculator/3.1). The table below lists the severity levels and scores of the CVSS.
+The OpenHarmony Security Issue Response Team organizes maintainers to verify the security vulnerabilities reported. The OpenHarmony community assesses security vulnerabilities based on the mainstream [CVSS](https://www.first.org/cvss/calculator/3.1). The table below lists the severity levels and scores of the Common Vulnerability Scoring System (CVSS).
 
 |Severity Rating|Score|
 |--------------------------|-----------------|
@@ -38,7 +38,7 @@ The OpenHarmony Security Issue Response Team organizes maintainers to verify the
 
 ## Fixing Security Vulnerabilities
 
-The maximum handling time is set based on the vulnerability severity level to ensure security vulnerabilities of higher severity levels to be handled in a timely manner.
+The maximum handling time is set based on the vulnerability severity level to ensure that security vulnerabilities of higher severity levels can be handled in a timely manner.
 
 |Severity Rating|Maximum Handling Time (Day)|
 |--------------------------|-----------------|
@@ -51,4 +51,4 @@ If a security vulnerability may generate public opinions or may be exploited, th
 
 ## Disclosing Security Vulnerabilities
 
-The OpenHarmony community submits responsible disclosures. After security vulnerabilities are fixed, [security bulletins](/en/security-disclosure/README.md) are released. You can [subscribe to](https://lists.openatom.io/postorius/lists/security.openharmony.io/) security bulletins by email.
+The OpenHarmony community adopts responsible disclosure. After security vulnerabilities are fixed, [security bulletins](/en/security-disclosure/README.md) will be released. You can [subscribe to](https://lists.openatom.io/postorius/lists/security.openharmony.io/) security bulletins by email.
