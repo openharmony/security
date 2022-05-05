@@ -52,5 +52,4 @@ OpenHarmony社区针对上游开源软件以及社区内原创开源软件，建
 ## 安全漏洞披露
 
 OpenHarmony社区遵循负责任的披露原则，安全漏洞修复后发布[安全公告](/zh/security-disclosure/README.md)，安全公告支持邮件订阅，您可以通过[“Security-bulletin”链接](https://lists.openatom.io/postorius/lists/security.openharmony.io/)订阅OpenHarmony社区的安全公告。
-**修复发布日**（在问题确认后1~21天内完成）
 

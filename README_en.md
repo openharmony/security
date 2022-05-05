@@ -17,13 +17,12 @@ This document describes the OpenHarmony Security Issue Response Team and how sec
 The Security Issue Response Team has the following members:
 
 + [zhangadong](https://gitee.com/zhangadong)
-+ [ding_haihua](https://gitee.com/ding_haihua)
 + [louis.liuxu](https://gitee.com/louis_liuxu)
 
 
 ## Meeting Time
 
-- 10:00 to 12:00 (UTC +8:00) every Wednesday morning
+- Meetings are held as needed.
 
 
 

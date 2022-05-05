@@ -4,4 +4,4 @@ We attach great importance to the security of OpenHarmony and are committed to c
 
 We acknowledge the valuable support and great contributions from the following teams and individuals:
 
-<font size=4></font>
+<font size=4>More coming soon.</font>
