@@ -17,13 +17,12 @@
 安全问题响应成员：
 
 + [zhangadong](https://gitee.com/zhangadong)
-+ [ding_haihua](https://gitee.com/ding_haihua)
 + [louis.liuxu](https://gitee.com/louis_liuxu)
 
 
 ## 会议时间
 
-- 每周三上午10:00~12:00，通过定期会议交流
+- 不定期举行会议交流
 
 
 
@@ -39,7 +38,7 @@
 
 ## 报告安全问题
 
-我们鼓励社区参与者共建OpenHarmony的社区安全性，如您发现OpenHarmony社区存在潜在的安全问题，请访问[OpenHarmony奖励计划](/zh/security-process/rewards_program.md)上报。
+我们鼓励社区参与者共建OpenHarmony的社区安全性，如您发现OpenHarmony社区存在潜在的安全问题，请访问[OpenHarmony安全漏洞奖励计划](/zh/security-process/rewards_program.md)上报。
 
 ## 安全漏洞处理
 
