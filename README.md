@@ -17,17 +17,16 @@
 安全问题响应成员：
 
 + [zhangadong](https://gitee.com/zhangadong)
-+ [ding_haihua](https://gitee.com/ding_haihua)
++ [louis.liuxu](https://gitee.com/louis_liuxu)
+
+
+## 会议时间
+
+- 不定期举行会议交流
 
 
 
-### 会议时间
-
-- 每周三上午10:00~12:00，通过定期会议交流
-
-
-
-### 联系安全问题响应组
+## 联系安全问题响应组
 
 为了获得最佳和最快的响应请使用以下联系方式：
 
@@ -37,15 +36,22 @@
 | scy-priv@openharmony.io            | 安全组邮件列表| 安全组成员安全问题处理讨论邮件列表，安全组成员可订阅。 |
 | security@openharmony.io            | 安全公告邮件列表 | 开发者通过[订阅](https://lists.openatom.io/postorius/lists/security.openharmony.io)此邮件列表可获取到最新的安全问题公告。     |
 
+## 报告安全问题
 
-### 安全发布流程
+我们鼓励社区参与者共建OpenHarmony的社区安全性，如您发现OpenHarmony社区存在潜在的安全问题，请访问[OpenHarmony安全漏洞奖励计划](/zh/security-process/rewards_program.md)上报。
 
-关于如何上报安全问题，如何获取安全补丁等安全相关事宜，请参考[安全披露指南](/zh/security-process/security-disclosure.md)
+## 安全漏洞处理
 
-了解OpenHarmony社区的安全处理流程和安全策略，请参考[安全处理流程](/zh/security-process/README.md)
+每个安全漏洞都会有专员进行跟踪和处理，想了解更多关于OpenHarmony社区的安全问题处理流程和策略，请参考[安全漏洞处理](/zh/security-process/README.md)。
 
+## 安全漏洞披露
 
+了解OpenHarmony社区的已公开披露的安全漏洞，请访问[安全公告](/zh/security-process/security-disclosure.md)。
 
-### 社区讨论和支持
+## 社区讨论和支持
 
 在[社区页面](https://gitee.com/openharmony)上了解更多OpenHarmony的详细知识以及如何在OpenHarmony社区做安全互动。
+
+## 致谢
+
+了解对OpenHarmony社区安全性做出贡献的个人和团队，请访问[致谢](/zh/security-process/Acknowledgements.md)。
