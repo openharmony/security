@@ -24,6 +24,7 @@ OpenHarmony community adopts differentiated security vulnerability handling poli
 |software package type|collecting security vulnerabilities|fixing security vulnerabilities|Disclosing Security Vulnerabilities|
 |----------|-----------|-----------|-----------|
 |LTS versions & Release versoins|support|fix all security vulnerabilities in lifecycle|assign SA and CVE ID|
+
 about versions lifecycle please refer to: https://gitee.com/openharmony-sig/oh-inner-release-management/blob/master/Maintenance/%E7%BB%B4%E6%8A%A4%E7%AD%96%E7%95%A5.md
 
 # OpenHarmony Security Vulnerability Handling Process
