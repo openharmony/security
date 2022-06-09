@@ -56,5 +56,5 @@ The vulnerability rewards of the community are being planned and will be availab
 
 - The date of public disclosure is negotiated by the OpenHarmony security issue response team and the security issue submitter. For security issues, once there are mitigations or workarounds, we will disclose the vulnerabilities.
 - Delayed disclosure is inevitable and reasonable when security issues are not fully understood and modified, solutions are not adequately tested, or coordination with publishers is not completed.
-- The disclosure takes a few weeks from the time when a security issue is confirmed. If clear mitigations or workarounds are available, we will try to disclose the vulnerabilities in two weeks.
+- We usually disclose the vulnerabilities on the Tuesday of the first full week of each month.
 - The OpenHarmony security issue response team has the final decision on the date of disclosure.
