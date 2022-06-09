@@ -1,14 +1,35 @@
+# OpenHarmony Security Vulnerability Governance
+
+A vulnerability is a flaw or weakness in a system's design, implementation, or operation and management that could be exploited to violate the system's security policy(RFC 4949).
+
+ Contents
+
++ [OpenHarmony Security Vulnerability Governance And Concept](#OpenHarmony Security Vulnerability Governance And Concept)
++ [OpenHarmony Security Vulnerability Handling Policy](#OpenHarmony Security Vulnerability Handling Policy)
++ [OpenHarmony Security Vulnerability Handling Process](#OpenHarmony Security Vulnerability Handling Process)
+ + [Collecting Security Vulnerabilities](#collecting-security-vulnerabilities)
+ + [Assessing Security Vulnerabilities](#assessing-security-vulnerabilities)
+ + [Fixing Security Vulnerabilities](#fixing-security-vulnerabilities)
+ + [Disclosing Security Vulnerabilities](#disclosing-security-vulnerabilities)
+ 
+## OpenHarmony Security Vulnerability Governance And Concept
+The Openharmony community attaches great importance to the security of the community versions. Despite the industry consensus that security vulnerabilities are inevitable, the OpenHarmony community will adhere to the following principles and actively mitigate potential risks of security vulnerabilities.
+
+
+1. Active Management: taking steps to reduce security vulnerabilities in products and services;
+2. Open Collaboration: cooperate with upstream and downstream communities to provide risk mitigation solutions to customers for security vulnerabilities found in product and services;
+## OpenHarmony Security Vulnerability Handling Policy
+
+OpenHarmony community adopts differentiated security vulnerability handling policies for different types of software packages. Please select a proper software package type based on your application scenario in order to reduce the risk security vulnerabilities being exploited.
+|software package type|collecting security vulnerabilities|fixing security vulnerabilities|Disclosing Security Vulnerabilities|
+|----------|-----------|-----------|-----------|
+|LTS versions & Release versoins|support|fix all security vulnerabilities in lifecycle|assign SA and CVE ID|
+
+about versions lifecycle please refer to: https://gitee.com/openharmony-sig/oh-inner-release-management/blob/master/Maintenance/%E7%BB%B4%E6%8A%A4%E7%AD%96%E7%95%A5.md
+
 # OpenHarmony Security Vulnerability Handling Process
 
 The OpenHarmony community has set up a complete security vulnerability handling process in compliance with ISO/IEC 30111 and ISO/IEC 29147 to ensure timely response to community security vulnerabilities and minimize security risks.
-
-Contents
-
-+ [Collecting Security Vulnerabilities](#collecting-security-vulnerabilities)
-+ [Assessing Security Vulnerabilities](#assessing-security-vulnerabilities)
-+ [Fixing Security Vulnerabilities](#fixing-security-vulnerabilities)
-+ [Disclosing Security Vulnerabilities](#disclosing-security-vulnerabilities)
-
 
 
 ## Collecting Security Vulnerabilities
