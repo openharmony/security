@@ -3,6 +3,7 @@
 本文档主要发布OpenHarmony软件的安全漏洞公告。
 
 ## 2022年安全漏洞
+**[2022年11月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2022/2022-11.md)**  
 **[2022年10月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2022/2022-10.md)**  
 **[2022年9月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2022/2022-09.md)**  
 **[2022年8月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2022/2022-08.md)**  
