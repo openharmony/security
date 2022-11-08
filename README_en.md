@@ -1,48 +1,72 @@
-# Response to Security Issues
+# Security Issue Response Team Work Charter
 
 English | [简体中文](./README.md)
 
-This document describes the OpenHarmony Security Issue Response Team and how security issues are handled.
+The Security Issue Response Team (referred to as "Team" hereinafter) is set up to ensure timely response to and handling of security issues.
 
 
 ## Responsibilities
 
-+ Assist in fixing vulnerabilities to ensure that known vulnerabilities are fixed in a timely manner.<br/> Help users fix vulnerabilities to guard against attacks, including providing means to detect and fix vulnerabilities.
-+ Handle security issues.<br/>Respond to security issues reported, track the issue handling progress, and disclose security issues in the community regularly.
-+ Participate in code review.<br/>Discover vulnerabilities in code through code review.
++ Assist in fixing vulnerabilities.
 
+  Help fix vulnerabilities, including providing means to detect and fix vulnerabilities, to protect users' systems against attacks.
+
++ Handle security issues.
+
+  Respond to security issues reported, track the issue handling progress, and disclose security issues in the community regularly.
+
++ Participate in code review.
+
+  Discover vulnerabilities in code through code review.
+
++ Review the bonus given or withdrawn based on the Bug Bounty Program.
+
++ Update the vulnerability review records and the list of Acknowledgment.
 
 ## Members
 
-The Security Issue Response Team has the following members:
+The Team consists of people from OpenHarmony A category donors who have extensive experience in related fields and are willing to work on security issues in the OpenHarmony community. Currently, the team members include:
 
-+ [zhangadong](https://gitee.com/zhangadong)
++ [Zhangadong (Leader)](https://gitee.com/zhangadong)
 + [louis.liuxu](https://gitee.com/louis_liuxu)
 
+The Team has a team leader, who is elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
 
-## Meeting Time
+The team leader is responsible for the daily work of the Team. Members shall comply with this work charter and regulations of the OpenHarmony project and diligently fulfill their duties. 
 
-- Meetings are held as needed.
+The Team has the right to recall members who violate the regulations.
+
+## Meetings
+
+A quorum of more than half of the team members is required to attend the meeting. An ordinary resolution shall be approved by more than half of the attendees. A special resolution shall be approved by at least two thirds of all attendees.
+
+A meeting can be held only when a majority of team members can attend the meeting. The team leader, deputy team leader, or more than three members can initiate a meeting based on work requirements.
+
+A special resolution is required for the following issues:
+- Modifying this work charter
+- Recalling team members
+- Reviewing the bonus given or withdrawn based on the Bug Bounty Program
+- Other important issues
 
 
 
-## Contacting the Security Issue Response Team
+## Contacts
 
-Contact the Security Issue Response Team using the following contact information:
+Contact the Team using the following contact information:
 
-| Email                            | Description                                                    | How to Use                                                      |
-| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| scy@openharmony.io                 | Email address for receiving security issues| You can send OpenHarmony security issues to this email address. Please encrypt your email using the [public key](/publicKey/Scy-OpenHarmony_publickey.asc).|
-| security@openharmony.io            | List of email addresses of security bulletin subscribers| You can obtain the latest security bulletins by [subscribing to](https://lists.openatom.io/postorius/lists/security.openharmony.io) this email address.    |
-| scy-priv@openharmony.io            | List of email addresses of the security group members| Security group members can discuss security issues using this email address.|
+| Email                            | Description   | How to Use                                                      |
+| -------------------------------------- | ------- | ------------------------------------------------------------ |
+| scy@openharmony.io                 | Email address for receiving security issues| Any developer can send OpenHarmony security issues to this email address. Please encrypt your email using the [public key](/publicKey/Scy-OpenHarmony_publickey.asc).|
+| scy-priv@openharmony.io            | A mailing list for discussing security issues| The Team members can subscribe to this mailing list to discuss security issues.|
+| security@openharmony.io            | A mailing list for receiving security bulletins| Any developer can obtain the latest security bulletins by [subscribing to](https://lists.openatom.io/postorius/lists/security.openharmony.io) this mailing list.    |
 
 ## Reporting Security Issues
 
-Community participants are encouraged to strengthen the security of the OpenHarmony community. If you find any potential security issue in OpenHarmony, submit an issue. For details, see [OpenHarmony Security Bounty Program](/en/security-process/rewards_program.md).
+You are welcome to report any potential security issue in the OpenHarmony community. For details, refer to [OpenHarmony Bug Bounty Program](/en/security-process/rewards_program.md).
 
 ## Handling Security Vulnerabilities
 
-Security vulnerabilities are tracked and handled by specialists. For more information about the security issue handling process and policy in the OpenHarmony community, see [OpenHarmony Security Vulnerability Handling Process](/en/security-process/README.md).
+The Team will assign specialists to track and handle security vulnerabilities. For more information, see [OpenHarmony Security Vulnerability Governance](/en/security-process/README.md).
 
 ## Disclosing Security Vulnerabilities
 
@@ -50,7 +74,7 @@ For details about the disclosed security vulnerabilities in the OpenHarmony comm
 
 ## Community Discussion and Support
 
-Learn more about OpenHarmony and how to join in and contribute to the OpenHarmony community at https://gitee.com/openharmony.
+Learn more about OpenHarmony and how to take part in security activities at [OpenHarmony](https://gitee.com/openharmony).
 
 ## Acknowledgment
 
