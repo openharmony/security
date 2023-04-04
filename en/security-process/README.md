@@ -25,7 +25,7 @@ OpenHarmony community adopts differentiated security vulnerability handling poli
 |----------|-----------|-----------|-----------|
 |LTS versions & Release versoins|support|fix all security vulnerabilities during active maintainence period<br/>fix security vulnerabilities above 7.0(CVSS) during passive maintainence period|assign SA and CVE ID|
 
-about versions lifecycle please refer to: https://gitee.com/openharmony/release-management/blob/master/OpenHarmony%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A.md
+about versions lifecycle please refer to: [OpenHarmony lifecycle bulletin](https://gitee.com/openharmony/release-management/blob/master/OpenHarmony%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A.md)
 
 # OpenHarmony Security Vulnerability Handling Process
 
