@@ -10,7 +10,7 @@
  + [验证&评估](#验证&评估)
  + [安全漏洞修复](#安全漏洞修复)
  + [安全漏洞披露](#安全漏洞披露)
- 
+
 ## OpenHarmony社区安全漏洞治理主张及理念
 
 OpenHarmony社区非常重视社区版本的安全性，尽管业界共识安全漏洞是不可避免的，但OpenHarmony社区仍将秉承如下原则，积极的消减安全漏洞的潜在风险。
@@ -24,9 +24,9 @@ OpenHarmony社区对不同应用类型软件包采用差异化的安全漏洞处
 
 |软件包类型|安全漏洞感知|安全漏洞修复|安全漏洞披露|
 |----------|-----------|-----------|-----------|
-|LTS版本&Release版本|支持|在生命周期内修复全量安全漏洞|发布SA和CVE|
+|LTS版本&Release版本|支持|在主动维护期内修复全量安全漏洞<br/>在被动维护期内修复CVSS评分7.0及以上的安全漏洞|发布SA和CVE|
 
-版本生命周期请参考：https://gitee.com/openharmony-sig/oh-inner-release-management/blob/master/Maintenance/%E7%BB%B4%E6%8A%A4%E7%AD%96%E7%95%A5.md
+版本生命周期请参考：[OpenHarmony生命周期发布公告](https://gitee.com/openharmony/release-management/blob/master/OpenHarmony%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A.md)
 
 ## OpenHarmony社区安全漏洞处理流程
 OpenHarmony社区遵循ISO/IEC 30111、ISO/IEC 29147等标准建立完整的安全漏洞处理流程，以确保社区安全漏洞得到及时响应和风险消减。
