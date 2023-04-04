@@ -23,9 +23,9 @@ The Openharmony community attaches great importance to the security of the commu
 OpenHarmony community adopts differentiated security vulnerability handling policies for different types of software packages. Please select a proper software package type based on your application scenario in order to reduce the risk security vulnerabilities being exploited.
 |software package type|collecting security vulnerabilities|fixing security vulnerabilities|Disclosing Security Vulnerabilities|
 |----------|-----------|-----------|-----------|
-|LTS versions & Release versoins|support|fix all security vulnerabilities in lifecycle|assign SA and CVE ID|
+|LTS versions & Release versoins|support|fix all security vulnerabilities during active maintainence period<br/>fix security vulnerabilities above 7.0(CVSS) during passive maintainence period|assign SA and CVE ID|
 
-about versions lifecycle please refer to: https://gitee.com/openharmony-sig/oh-inner-release-management/blob/master/Maintenance/%E7%BB%B4%E6%8A%A4%E7%AD%96%E7%95%A5.md
+about versions lifecycle please refer to: [OpenHarmony Life Cycle Policy](https://gitee.com/openharmony/release-management/blob/master/OpenHarmony%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A.md)
 
 # OpenHarmony Security Vulnerability Handling Process
 
