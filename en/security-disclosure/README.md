@@ -22,5 +22,5 @@ This document describes the security vulnerabilities of OpenHarmony.
 **[Security Vulnerabilities in August](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2021/2021-08.md)**  
 **[Security Vulnerabilities in September](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2021/2021-09.md)**  
 
-## Security Vulnerabilities in 2020
-**[Security Vulnerabilities in September](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2020/2020-09.md)**  
+## Security Vulnerabilities in 2020(security_announcement_template)
+**[Security Vulnerabilities in September](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/security_announcement_template/YYYY-MM.md)**  
