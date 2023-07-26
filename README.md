@@ -18,7 +18,8 @@
 安全问题响应工作组由OpenHarmony项目群A类捐赠人单位中有相关领域丰富经验并愿意致力于OpenHarmony社区安全响应处理工作的人员组成，当前成员如下：
 
 + [zhangadong（组长）](https://gitee.com/zhangadong)
-+ [louis.liuxu](https://gitee.com/louis_liuxu)
++ [zhangyun](https://gitee.com/zhangyun761)
++ [yangna](https://gitee.com/xiaoyang1210)
 
 安全响应工作组设组长一名，组长经组员投票选举产生，每届任期两年，可连选连任。成员任期两年，可连选连任。新加入成员由现有成员采取普通事项决议。现有成员的罢免采取特殊事项决议。
 安全问题响应工作组采取组长负责制，组长负责主持开展组内的日常工作。成员应遵守本制度及OpenHarmony项目群相关制度的规定，勤勉尽职。对违反规定的成员，本工作组有权予以罢免。
