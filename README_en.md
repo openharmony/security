@@ -28,7 +28,8 @@ The Security Issue Response Team (referred to as "Team" hereinafter) is set up t
 The Team consists of people from OpenHarmony A category donors who have extensive experience in related fields and are willing to work on security issues in the OpenHarmony community. Currently, the team members include:
 
 + [Zhangadong (Leader)](https://gitee.com/zhangadong)
-+ [louis.liuxu](https://gitee.com/louis_liuxu)
++ [zhangyun](https://gitee.com/zhangyun761)
++ [yangna](https://gitee.com/xiaoyang1210)
 
 The Team has a team leader, who is elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
 
