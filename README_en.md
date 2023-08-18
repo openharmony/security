@@ -73,6 +73,10 @@ The Team will assign specialists to track and handle security vulnerabilities. F
 
 For details about the disclosed security vulnerabilities in the OpenHarmony community, see [Security Bulletins](/en/security-process/security-disclosure.md).
 
+## Private Distributors List
+
+This list is used to provide security-related actionable information for OpenHarmony distributors. For details, see [Private Distributors List](/en/security-process/private-distributors-list-en.md).
+
 ## Community Discussion and Support
 
 Learn more about OpenHarmony and how to take part in security activities at [OpenHarmony](https://gitee.com/openharmony).
