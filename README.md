@@ -58,6 +58,10 @@
 
 了解OpenHarmony社区的已公开披露的安全漏洞，请访问[安全公告](/zh/security-process/security-disclosure.md)。
 
+## 受限披露列表
+
+该列表用于向OpenHarmony的发行商提供安全相关可操作的信息，请参考[受限披露列表](/zh/security-process/private-distributors-list.md)。
+
 ## 社区讨论和支持
 
 通过[社区页面](https://gitee.com/openharmony)可以了解更多OpenHarmony的详细知识以及如何在OpenHarmony社区做安全互动。
