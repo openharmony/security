@@ -59,16 +59,7 @@ The OpenHarmony Security Issue Response Team organizes maintainers to verify the
 
 ## Fixing Security Vulnerabilities
 
-The maximum handling time is set based on the vulnerability severity level to ensure that security vulnerabilities of higher severity levels can be handled in a timely manner.
-
-|Severity Rating|Maximum Handling Time (Day)|
-|--------------------------|-----------------|
-|Critical|7|
-|High|14|
-|Medium|30|
-|Low|30|
-
-If a security vulnerability may generate public opinions or may be exploited, the handling time will be reduced to one to three days to minimize the impact. However, it cannot be guaranteed that all security vulnerabilities will be fixed within the specified time due to complexity in vulnerability fixing.
+For confirmed valid security vulnerabilities,the OpenHarmony Security Issue Response Team will organize repairs as soon as possible.If a security vulnerability may generate public opinions or may be exploited, the handling time will be reduced to minimize the impact. 
 
 ## Disclosing Security Vulnerabilities
 
