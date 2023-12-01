@@ -1,0 +1,140 @@
+{
+    "month": "2023-03",
+    "release_time": "2023-03-07 14:53:08.541376",
+    "vulnerabilities": [
+        {
+            "month": "2023-03",
+
+            "vul_id": {
+                "cve": "CVE-2023-24465",
+                "openharmony-sa": "OpenHarmony-SA-2023-0301"
+            },
+
+            "severity": "medium",
+
+            "vul_description": {
+                "zh": "WLAN组件子系统通信设备服务的一个接口，在接受外部数据时存在空指针引用",
+                "en": "Communication Wi-Fi subsystem has a null pointer reference vulnerability when receiving external data."
+            },
+
+            "vul_impact": {
+                "zh": "本地攻击者利用此漏洞，可导致当前应用crash",
+                "en": "Local attackers can exploit this vulnerability to cause the current application to crash."
+            },
+
+            "disclosure": {
+                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2023/2023-03.md",
+                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2023/2023-03.md"
+            },
+
+            "patch_info": {
+                "3.0.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/862"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/862.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/862.diff"
+                    ]
+                },
+                "3.1.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/788"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/788.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/communication_wifi/pulls/788.diff"
+                    ]
+                }
+            },
+
+            "affected_projects": "communication_wifi",
+
+            "affected_versions": [
+                "3.0.0-3.0.7",
+                "3.1.0-3.1.4"
+            ],
+
+            "affected_device": {
+                "mini": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "small": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    },
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "standard": {
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": true,
+                                    "yara": {
+                                        "affected_files": [
+                                            "/system/lib/libwifi_scan_ability.z.so"
+                                        ],
+                                        "yara_rules": [
+                                            "TestCaseRule-OpenHarmony-SA-2023-0301.yara"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "arm64": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
