@@ -1,0 +1,15 @@
+{
+    "description": "Configuration for yara demo Tests",
+    "driver": {
+        "type": "OHYaraTest",
+        "yara-bin": "yara64.exe",
+        "version-mapping-file": "openHarmony_version_mapping.json",
+        "vul-info-file": "TestCaseInfo-OpenHarmony-SA-2023-0101.json",
+        "tools-hap-info": {
+            "hap-file": "sststool.hap",
+            "bundle-name": "com.example.sststool"
+        }
+    },
+    "kits": [
+    ]
+}

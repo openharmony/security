@@ -1,0 +1,140 @@
+{
+    "month": "2023-02",
+    "release_time": "2023-02-04 14:53:08.541376",
+    "vulnerabilities": [
+        {
+            "month": "2023-02",
+
+            "vul_id": {
+                "cve": "CVE-2023-0083",
+                "openharmony-sa": "OpenHarmony-SA-2023-0201"
+            },
+
+            "severity": "medium",
+
+            "vul_description": {
+                "zh": "ArkUI框架子系统未对入参进行类型检查导致类型混淆，造成访问非法内存",
+                "en": "The ArkUI framework subsystem doesn't check the input parameter,causing type confusion and invalid memory access."
+            },
+
+            "vul_impact": {
+                "zh": "攻击者可在本地内发起攻击，造成当前应用崩溃",
+                "en": "Local attackers can exploit this vulnerability to send malicious data, causing the current application to crash."
+            },
+
+            "disclosure": {
+                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2023/2023-02.md",
+                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2023/2023-02.md"
+            },
+
+            "patch_info": {
+                "3.0.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877.diff"
+                    ]
+                },
+                "3.1.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872.diff"
+                    ]
+                }
+            },
+
+            "affected_projects": "arkui_ace_engine",
+
+            "affected_versions": [
+                "3.0.0-3.0.7",
+                "3.1.0-3.1.5"
+            ],
+
+            "affected_device": {
+                "mini": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "small": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    },
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "standard": {
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": true,
+                                    "yara": {
+                                        "affected_files": [
+                                            "/system/lib/libace_engine_declarative_ark.z.so"
+                                        ],
+                                        "yara_rules": [
+                                            "TestCaseRule-OpenHarmony-SA-2023-0201.yara"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "arm64": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
