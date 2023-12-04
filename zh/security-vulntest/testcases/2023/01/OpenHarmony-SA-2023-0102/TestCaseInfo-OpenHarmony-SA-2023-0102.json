@@ -1,0 +1,128 @@
+{
+    "month": "2023-01",
+    "release_time": "2023-01-03 14:53:08.541376",
+    "vulnerabilities": [
+        {
+            "month": "2023-01",
+
+            "vul_id": {
+                "cve": "CVE-2023-0036",
+                "openharmony-sa": "OpenHarmony-SA-2023-0102"
+            },
+
+            "severity": "medium",
+
+            "vul_description": {
+                "zh": "杂散子系统输入法部件platform_callback_stub存在校验绕过漏洞，可发起SA中继攻击",
+                "en": "platform_callback_stub in misc subsystem has an authentication bypass vulnerability which allows an 'SA relay attack'."
+            },
+
+            "vul_impact": {
+                "zh": "攻击者可在本地内发起攻击，造成校验绕过，可进一步提权攻击其他SA",
+                "en": "Local attackers can bypass authentication and attack other SAs with high privilege."
+            },
+
+            "disclosure": {
+                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2023/2023-01.md",
+                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2023/2023-01.md"
+            },
+
+            "patch_info": {
+                "3.0.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/inputmethod_imf/pulls/228"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/inputmethod_imf/pulls/228.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/inputmethod_imf/pulls/228.diff"
+                    ]
+                }
+            },
+
+            "affected_projects": "inputmethod_imf",
+
+            "affected_versions": [
+                "3.0.0-3.0.5"
+            ],
+
+            "affected_device": {
+                "mini": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "small": {
+                    "liteos": {
+                        "rics-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    },
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+
+                "standard": {
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": true,
+                                    "yara": {
+                                        "affected_files": [
+                                            "/system/lib/libinputmethod_service.z.so"
+                                        ],
+                                        "yara_rules": [
+                                            "TestCaseRule-OpenHarmony-SA-2023-0102.yara"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "arm64": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
