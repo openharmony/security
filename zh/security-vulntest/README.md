@@ -63,6 +63,7 @@ TestCaseRule-OpenHarmony-SA-2023-0101-2.yara   # yara规则文件2
                 }
             },
             "affected_projects": "communication_dsoftbus",
+            "object_type": "kernel_linux",
             "affected_versions": [
                 "3.0.0-3.0.5"
             ],
@@ -159,6 +160,7 @@ TestCaseRule-OpenHarmony-SA-2023-0101-2.yara   # yara规则文件2
 - disclosure  漏洞披露网址
 - patch_info  漏洞补丁链接
 - affected_projects  影响子系统
+- object_type  影响的目标文件类型，当为Linux内核类型时，此字段必填，且值为“kernel_linux”
 - affected_versions  影响版本
 
 第二部分是用例信息：
