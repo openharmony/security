@@ -1,62 +1,52 @@
 {
-    "month": "2023-02",
-    "release_time": "2023-02-04 14:53:08.541376",
+    "month": "2023-03",
+    "release_time": "2023-03-07 14:53:08.541376",
     "vulnerabilities": [
         {
-            "month": "2023-02",
+            "month": "2023-03",
 
             "vul_id": {
-                "cve": "CVE-2023-0083",
-                "openharmony-sa": "OpenHarmony-SA-2023-0201"
+                "cve": "CVE-2023-25947",
+                "openharmony-sa": "OpenHarmony-SA-2023-0302"
             },
 
             "severity": "medium",
 
             "vul_description": {
-                "zh": "ArkUI框架子系统未对入参进行类型检查导致类型混淆，造成访问非法内存",
-                "en": "The ArkUI framework subsystem doesn't check the input parameter,causing type confusion and invalid memory access."
+                "zh": "包管理模块存在安装hap包时没有做有效性判断的漏洞",
+                "en": "The bundle management subsystem has a improper input validation when installing a HAP package."
             },
 
             "vul_impact": {
-                "zh": "攻击者可在本地内发起攻击，造成当前应用崩溃",
-                "en": "Local attackers can exploit this vulnerability to send malicious data, causing the current application to crash."
+                "zh": "本地攻击者利用此漏洞构造非法数据，在安装hap包时可以导致系统无响应",
+                "en": "Local attackers can exploit this vulnerability to cause a DoS attack to the system when installing a malicious HAP package."
             },
 
             "disclosure": {
-                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2023/2023-02.md",
-                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2023/2023-02.md"
+                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2023/2023-03.md",
+                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2023/2023-03.md"
             },
 
             "patch_info": {
-                "3.0.x": {
-                    "patch_url": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877"
-                    ],
-                    "patch_file": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877.patch"
-                    ],
-                    "diff_file": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877.diff"
-                    ]
-                },
                 "3.1.x": {
                     "patch_url": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872"
+                        "https://gitee.com/openharmony/bundlemanager_bundle_framework/pulls/3094"
                     ],
                     "patch_file": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872.patch"
+                        "https://gitee.com/openharmony/bundlemanager_bundle_framework/pulls/3094.patch"
                     ],
                     "diff_file": [
-                        "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872.diff"
+                        "https://gitee.com/openharmony/bundlemanager_bundle_framework/pulls/3094.diff"
                     ]
                 }
             },
 
-            "affected_projects": "arkui_ace_engine",
+            "affected_projects": "bundlemanager_bundle_framework",
+
+            "object_type": "",
 
             "affected_versions": [
-                "3.0.0-3.0.7",
-                "3.1.0-3.1.5"
+                "3.1.0-3.1.4"
             ],
 
             "affected_device": {
@@ -113,10 +103,10 @@
                                     "enable": true,
                                     "yara": {
                                         "affected_files": [
-                                            "/system/lib/libace_engine_declarative_ark.z.so"
+                                            "/system/lib/libappexecfwk_core.z.so"
                                         ],
                                         "yara_rules": [
-                                            "TestCaseRule-OpenHarmony-SA-2023-0201.yara"
+                                            "TestCaseRule-OpenHarmony-SA-2023-0302.yara"
                                         ]
                                     }
                                 }
