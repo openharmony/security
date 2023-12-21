@@ -7,9 +7,13 @@ The Security Issue Response Team (referred to as "Team" hereinafter) is set up t
 
 ## Responsibilities
 
++ External vulnerability awareness.
+
+  Measures such as proactive vulnerability crawling and vulnerability monitoring are taken to detect security issues in a timely manner.
+
 + Assist in fixing vulnerabilities.
 
-  Help fix vulnerabilities, including providing means to detect and fix vulnerabilities, to protect users' systems against attacks.
+  Ensure that known vulnerabilities are fixed in a timely manner, to protect users' systems against attacks.
 
 + Handle security issues.
 
@@ -27,11 +31,15 @@ The Security Issue Response Team (referred to as "Team" hereinafter) is set up t
 
 The Team consists of people from OpenHarmony A category donors who have extensive experience in related fields and are willing to work on security issues in the OpenHarmony community. Currently, the team members include:
 
-+ [Zhangadong (Leader)](https://gitee.com/zhangadong)
++ [zhangadong（Leader）](https://gitee.com/zhangadong)
++ [dengxiaolong（Deputy Leader）](https://gitee.com/xldeng422)
 + [zhangyun](https://gitee.com/zhangyun761)
++ [peibibao](https://gitee.com/tvbfcsl)
 + [yangna](https://gitee.com/xiaoyang1210)
++ [yansudan](https://gitee.com/yansudan)
++ [wangchen](https://gitee.com/w253227059)
 
-The Team has a team leader, who is elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
+The Team has a team leader and a deputy team leader, they are elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
 
 The team leader is responsible for the daily work of the Team. Members shall comply with this work charter and regulations of the OpenHarmony project and diligently fulfill their duties. 
 
