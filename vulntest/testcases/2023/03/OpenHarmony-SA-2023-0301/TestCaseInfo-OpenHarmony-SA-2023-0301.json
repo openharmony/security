@@ -54,6 +54,8 @@
 
             "affected_projects": "communication_wifi",
 
+            "object_type": "",
+
             "affected_versions": [
                 "3.0.0-3.0.7",
                 "3.1.0-3.1.4"
