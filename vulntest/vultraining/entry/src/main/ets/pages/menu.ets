@@ -1,10 +1,7 @@
 import router from '@ohos.router';
 import flag_generate from './randomFlag'
-import { window } from '@kit.ArkUI';
-import { BusinessError } from '@kit.BasicServicesKit';
 import { fileIo as fs ,Options} from '@kit.CoreFileKit';
 import { common } from '@kit.AbilityKit';
-import { JSON } from '@kit.ArkTS';
 
 @Entry
 @Component
@@ -39,17 +36,17 @@ struct menu{
             .margin(15)
             .onClick((event: ClickEvent) => {
               router.pushUrl({url: 'pages/challenge1'});
-              const flag1: string = flag_generate(); // 生成flag
+              const flag1: string = flag_generate();
               AppStorage.setOrCreate('challenge1_random_flag', flag1);
             });
           if (this.flag_information.charAt(0)==='1') {
             Image('images/finish.png')
-              .width(70)// 添加一些左边距使图片与按钮之间有间隔
+              .width(70)
               .align(Alignment.Center);
           }
           else {
             Image('images/unfinish.png')
-              .width(70)// 添加一些左边距使图片与按钮之间有间隔
+              .width(70)
               .align(Alignment.Center);
           }
         }
