@@ -5,7 +5,7 @@ export default function generateRandomString(): string {
 
   for (let i = 0; i < 6; i++) {
     const randomIndex: number = Math.floor(Math.random() * charactersLength);
-    result += characters.charAt(randomIndex);  // 使用 charAt 方法
+    result += characters.charAt(randomIndex);
   }
     return `flag{${result}}`;
   }

@@ -1,6 +1,8 @@
 {
   "src": [
     "pages/home",
-    "pages/menu"
+    "pages/menu",
+    "pages/challenge1",
+    "pages/challenge_1_submit"
   ]
 }

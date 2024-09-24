@@ -20,20 +20,6 @@ export struct success {
           .fontColor(Color.White)
           .textAlign(TextAlign.Center)
           .onClick(()=>{
-            // const KEY_TEST_STRING_ELEMENT = 'key_test_string';
-            // const VALUE_TEST_STRING_ELEMENT = 'value_test_string';
-            // try {
-            //   kvStore.put(KEY_TEST_STRING_ELEMENT, VALUE_TEST_STRING_ELEMENT, (err) => {
-            //     if (err !== undefined) {
-            //       console.error(`Failed to put data. Code:${err.code},message:${err.message}`);
-            //       return;
-            //     }
-            //     console.info('Succeeded in putting data.');
-            //   });
-            // } catch (e) {
-            //   console.error(`An unexpected error occurred. Code:${e.code},message:${e.message}`);
-            // }
-            // PersistentStorage.PersistProp('finish_1', true);
             router.pushUrl({url:'pages/menu'});
           })
 

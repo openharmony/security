@@ -1,12 +1,6 @@
 import router from '@ohos.router';
-import process from '@ohos.process';
-import distributedKVStore from '@ohos.data.distributedKVStore';
-import { BusinessError } from '@kit.BasicServicesKit';
 import { fileIo as fs } from '@kit.CoreFileKit';
 import { common } from '@kit.AbilityKit';
-import { JSON } from '@kit.ArkTS';
-import json from '@ohos.util.json';
-import { expect } from '@ohos/hypium/src/main/interface';
 
 interface JsonData {
   "challenge": string;

@@ -37,7 +37,7 @@ struct flagDialog {
       .backgroundColor(Color.Blue)
       .width('40%')
       .onClick(() => {
-        const already_get_flag1: boolean = true // 生成flag
+        const already_get_flag1: boolean = true
         AppStorage.setOrCreate('already_get_flag1', already_get_flag1)
         router.pushUrl({
           url:'pages/challenge_1_submit'
