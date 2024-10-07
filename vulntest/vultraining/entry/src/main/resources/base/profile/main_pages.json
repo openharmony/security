@@ -3,6 +3,7 @@
     "pages/home",
     "pages/menu",
     "pages/challenge1",
-    "pages/challenge_1_submit"
+    "pages/challenge_1_submit",
+    "common/flagDialog"
   ]
 }
