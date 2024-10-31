@@ -1,0 +1,54 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\hp\\.ohos\\config\\default_range_submit_EqgLEamLqfPPPiwNSHQKMSWU7OqgZD3To5QonpUjYNM=.cer",
+          "storePassword": "0000001A5C7B9760A9F63AB0D0EF7095FECCF001555EAEB69C0C21CCD33047AB9C457FADA899AB1A3269",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001ACB45EC00EA32E4B41A3CB5F41434EC8B540E7E748233F40A0FABACCEA58D537ACD2B1377602A",
+          "profile": "C:\\Users\\hp\\.ohos\\config\\default_range_submit_EqgLEamLqfPPPiwNSHQKMSWU7OqgZD3To5QonpUjYNM=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\hp\\.ohos\\config\\default_range_submit_EqgLEamLqfPPPiwNSHQKMSWU7OqgZD3To5QonpUjYNM=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
