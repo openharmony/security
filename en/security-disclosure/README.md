@@ -2,6 +2,7 @@
 
 This document describes the security vulnerabilities of OpenHarmony.
 ## Security Vulnerabilities in 2024
+**[Security Vulnerabilities in November](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2024/2024-11.md)**  
 **[Security Vulnerabilities in October](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2024/2024-10.md)**  
 **[Security Vulnerabilities in September](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2024/2024-09.md)**  
 **[Security Vulnerabilities in August](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2024/2024-08.md)**  
