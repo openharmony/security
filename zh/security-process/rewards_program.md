@@ -4,7 +4,7 @@
 
 ## 基本原则
 
-OpenHarmony社区非常重视社区软件版本的安全性，社区安全问题的来源包括安全问题例行扫描、内部安全研究以及外部上报安全问题。OpenHarmony社区发布安全漏洞奖励计划项目，鼓励安全漏洞研究人员和行业组织主动将OpenHarmony社区的疑似安全漏洞通过加密邮件方式（bugbounty@mail.openharmony.io, [PGP公钥地址](https://gitee.com/openharmony/security/blob/master/publicKey/Scy-OpenHarmony_publickey.asc)）报告给OpenHarmony社区安全响应工作组。OpenHarmony社区安全响应工作组会快速响应、分析、验证和解决上报的安全问题或安全漏洞。
+OpenHarmony社区非常重视社区软件版本的安全性，社区安全问题的来源包括安全问题例行扫描、内部安全研究以及外部上报安全问题。OpenHarmony社区发布安全漏洞奖励计划项目，鼓励安全漏洞研究人员和行业组织主动将OpenHarmony社区的疑似安全漏洞通过加密邮件方式（bugbounty@mail.openharmony.io, [PGP公钥地址](https://gitee.com/openharmony/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc)）报告给OpenHarmony社区安全响应工作组。OpenHarmony社区安全响应工作组会快速响应、分析、验证和解决上报的安全问题或安全漏洞。
 
 ## 奖励计划范围
 
