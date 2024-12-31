@@ -14,7 +14,7 @@ The **Program** applies to the latest OpenHarmony Release version and OpenHarmon
 
 In the OpenHarmony single-device scenario, vulnerabilities are classified into four levels: critical, high, medium, and low, based on their impact.
 
-## Bounty Program
+## Bounty Program 
 
 |Vulnerability Level|Vulnerability Example|Maximum Bonus (CNY)|
 |-----------|----|----|
