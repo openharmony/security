@@ -4,7 +4,7 @@ Release date: September 23, 2023
 
 ## Overview
 
-The OpenHarmony community attaches great importance to the security of community software versions. The security issues include issues found during the routine security issue scans and internal security research, as well as security issues reported by users. The OpenHarmony Security Bounty Program (referred to as the "**Program**" hereinafter) aims to encourage feedback of security vulnerabilities found in OpenHarmony to bugbounty@mail.openharmony.io via emails encrypted by the [PGP public key](https://gitee.com/cuttieorange/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc). The OpenHarmony Security Issue Response Team will try to address all feedback on a case-by-case basis as soon as possible.
+The OpenHarmony community attaches great importance to the security of community software versions. The security issues include issues found during the routine security issue scans and internal security research, as well as security issues reported by users. The OpenHarmony Security Bounty Program (referred to as the "**Program**" hereinafter) aims to encourage feedback of security vulnerabilities found in OpenHarmony to bugbounty@mail.openharmony.io via emails encrypted by the [PGP public key](https://gitee.com/openharmony/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc). The OpenHarmony Security Issue Response Team will try to address all feedback on a case-by-case basis as soon as possible.
 
 ## **Program Scope**
 
