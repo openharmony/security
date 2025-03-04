@@ -2,6 +2,7 @@
 
 本文档主要发布OpenHarmony软件的安全漏洞公告。
 ## 2025年安全漏洞
+**[2025年03月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2025/2025-03.md)**  
 **[2025年02月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2025/2025-02.md)**  
 **[2025年01月安全漏洞](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2025/2025-01.md)**  
 
