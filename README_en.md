@@ -34,7 +34,6 @@ The Team consists of people from OpenHarmony A category donors who have extensiv
 + [zhangadong（Leader）](https://gitee.com/zhangadong)
 + [dengxiaolong（Deputy Leader）](https://gitee.com/xldeng422)
 + [zhangyun](https://gitee.com/zhangyun761)
-+ [peibibao](https://gitee.com/tvbfcsl)
 + [yangna](https://gitee.com/xiaoyang1210)
 + [yansudan](https://gitee.com/yansudan)
 + [wangchen](https://gitee.com/w253227059)
@@ -44,6 +43,7 @@ The Team consists of people from OpenHarmony A category donors who have extensiv
 + [guochenkai](https://gitee.com/guo-chen-kai/)
 + [ouyangqiangbin](https://gitee.com/oubanxian)
 + [xule](https://gitee.com/manifestxl)
++ [mudongliang](https://gitee.com/mudongliang)
 
 The Team has a team leader and a deputy team leader, they are elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
 
