@@ -93,7 +93,7 @@ This list is used to provide security-related actionable information for OpenHar
 
 ## Community Discussion and Support
 
-Learn more about OpenHarmony and how to take part in security activities at [OpenHarmony](https://gitee.com/openharmony).
+Learn more about OpenHarmony and how to take part in security activities at [OpenHarmony](https://gitcode.com/openharmony).
 
 ## Acknowledgment
 
