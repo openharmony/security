@@ -4,7 +4,7 @@
 
 # Security Bulletins
 
-You can obtain OpenHarmony product security bulletins and disclosure information from the [OpenHarmony security bulletins and disclosure](https://gitee.com/openharmony/security/blob/master/en/security-disclosure/README.md) page.
+You can obtain OpenHarmony product security bulletins and disclosure information from the [OpenHarmony security bulletins and disclosure](https://gitcode.com/openharmony/security/blob/master/en/security-disclosure/README.md) page.
 
 
 
