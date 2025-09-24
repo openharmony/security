@@ -31,19 +31,19 @@ The Security Issue Response Team (referred to as "Team" hereinafter) is set up t
 
 The Team consists of people from OpenHarmony A category donors who have extensive experience in related fields and are willing to work on security issues in the OpenHarmony community. Currently, the team members include:
 
-+ [zhangadong（Leader）](https://gitee.com/zhangadong)
-+ [dengxiaolong（Deputy Leader）](https://gitee.com/xldeng422)
-+ [zhangyun](https://gitee.com/zhangyun761)
-+ [yangna](https://gitee.com/xiaoyang1210)
-+ [yansudan](https://gitee.com/yansudan)
-+ [wangchen](https://gitee.com/w253227059)
-+ [wangyu](https://gitee.com/cyberserval)
-+ [zhangjingjing](https://gitee.com/jj2021)
-+ [lixiang](https://gitee.com/li-xiang-nk)
-+ [guochenkai](https://gitee.com/guo-chen-kai/)
-+ [ouyangqiangbin](https://gitee.com/oubanxian)
-+ [xule](https://gitee.com/manifestxl)
-+ [mudongliang](https://gitee.com/mudongliang)
++ [zhangadong（Leader）](https://gitcode.com/zhangadong)
++ [dengxiaolong（Deputy Leader）](https://gitcode.com/xldeng422)
++ [zhangyun](https://gitcode.com/zhangyun761)
++ [yangna](https://gitcode.com/xiaoyang1210)
++ [yansudan](https://gitcode.com/yansudan)
++ [wangchen](https://gitcode.com/w253227059)
++ [wangyu](https://gitcode.com/cyberserval)
++ [zhangjingjing](https://gitcode.com/jj2021)
++ [lixiang](https://gitcode.com/li-xiang-nk)
++ [guochenkai](https://gitcode.com/guo-chen-kai/)
++ [ouyangqiangbin](https://gitcode.com/oubanxian)
++ [xule](https://gitcode.com/manifestxl)
++ [mudongliang](https://gitcode.com/mudongliang)
 
 The Team has a team leader and a deputy team leader, they are elected by team members for a two-year term and can be re-elected for more terms. The team members serve a two-year term and can be re-elected for more terms. New members are approved by existing members via an ordinary resolution. Dismissal of existing members is approved by a special resolution.
 
