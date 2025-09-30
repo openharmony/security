@@ -79,4 +79,4 @@
 
 ## 致谢
 
-了解对OpenHarmony社区安全性做出贡献的个人和团队，请访问[致谢](/zh/security-process/Acknowledgements.md)。
+了解对OpenHarmony社区安全性做出贡献的个人和团队，请访问[致谢](https://www.openharmony.cn/security/acknowledgements)。
