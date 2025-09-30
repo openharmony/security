@@ -4,7 +4,7 @@
 
 # 安全公告
 
-您可以从OpenHarmony的[安全公告和披露页面](https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/README.md)获取OpenHarmony产品安全公告和安全披露的信息。
+您可以从OpenHarmony的[安全公告和披露页面](https://gitcode.com/openharmony/security/blob/master/zh/security-disclosure/README.md)获取OpenHarmony产品安全公告和安全披露的信息。
 
 
 

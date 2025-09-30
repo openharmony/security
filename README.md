@@ -18,19 +18,19 @@
 
 安全问题响应工作组由OpenHarmony项目群A类捐赠人单位中有相关领域丰富经验并愿意致力于OpenHarmony社区安全响应处理工作的人员组成，当前成员如下：
 
-+ [zhangadong（组长）](https://gitee.com/zhangadong)
-+ [dengxiaolong（副组长）](https://gitee.com/xldeng422)
-+ [zhangyun](https://gitee.com/zhangyun761)
-+ [yangna](https://gitee.com/xiaoyang1210)
-+ [yansudan](https://gitee.com/yansudan)
-+ [wangchen](https://gitee.com/w253227059)
-+ [wangyu](https://gitee.com/cyberserval)
-+ [zhangjingjing](https://gitee.com/jj2021)
-+ [lixiang](https://gitee.com/li-xiang-nk)
-+ [guochenkai](https://gitee.com/guo-chen-kai/)
-+ [ouyangqiangbin](https://gitee.com/oubanxian)
-+ [xule](https://gitee.com/manifestxl)
-+ [mudongliang](https://gitee.com/mudongliang)
++ [zhangadong（组长）](https://gitcode.com/zhangadong)
++ [dengxiaolong（副组长）](https://gitcode.com/xldeng422)
++ [zhangyun](https://gitcode.com/zhangyun761)
++ [yangna](https://gitcode.com/xiaoyang1210)
++ [yansudan](https://gitcode.com/yansudan)
++ [wangchen](https://gitcode.com/w253227059)
++ [wangyu](https://gitcode.com/cyberserval)
++ [zhangjingjing](https://gitcode.com/jj2021)
++ [lixiang](https://gitcode.com/li-xiang-nk)
++ [guochenkai](https://gitcode.com/guo-chen-kai/)
++ [ouyangqiangbin](https://gitcode.com/oubanxian)
++ [xule](https://gitcode.com/manifestxl)
++ [mudongliang](https://gitcode.com/mudongliang)
 
 安全响应工作组设组长、副组长各一名，经组员投票选举产生，每届任期两年，可连选连任。成员任期两年，可连选连任。新加入成员由现有成员采取普通事项决议。现有成员的罢免采取特殊事项决议。
 安全问题响应工作组采取组长负责制，组长负责主持开展组内的日常工作。成员应遵守本制度及OpenHarmony项目群相关制度的规定，勤勉尽职。对违反规定的成员，本工作组有权予以罢免。
@@ -75,7 +75,7 @@
 
 ## 社区讨论和支持
 
-通过[社区页面](https://gitee.com/openharmony)可以了解更多OpenHarmony的详细知识以及如何在OpenHarmony社区做安全互动。
+通过[社区页面](https://gitcode.com/openharmony)可以了解更多OpenHarmony的详细知识以及如何在OpenHarmony社区做安全互动。
 
 ## 致谢
 
