@@ -1,0 +1,215 @@
+[33md2749f9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m cve-2025-38285-ssts
+[33m33beb07[m merge 1009_sec into master
+[33m485878e[m 新增2025年10月安全公告 close #77 Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m80c1826[m merge master into master
+[33me6827eb[m fix:change the code in gitee to gitcode
+[33m37976de[m merge master into master
+[33me76ee9e[m update: 更新文件 README.md
+[33m6efd5d4[m 修改致谢连接
+[33m1c82b4c[m merge master into master
+[33mbb0f8e3[m 修改超链接地址
+[33m461ab10[m 修改超链接地址
+[33mcfb986a[m 修改超链接地址
+[33m3ab66b7[m !338 新增2025年09月安全公告 Merge pull request !338 from wangchen/0902_sec
+[33mf098e59[m 新增2025年09月安全公告 close #ICVZ0S Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m180a31a[m !263 SSTS新增规则：CVE-2024-26684 Merge pull request !263 from fuge/12
+[33m753856e[m !279 SSTS新增规则：CVE-2024-27004 Merge pull request !279 from lidajia/master
+[33m29e2aa4[m !300 Signed-off-by: q879dh10982 <a href="mailto:a18983188288@126.com">a18983188288@126.com</a> Merge pull request !300 from q879dh10982/2
+[33me7ebe81[m !304 Signed-off-by: q879dh10982 <a href="mailto:a18983188288@126.com">a18983188288@126.com</a> Merge pull request !304 from q879dh10982/master
+[33m38651c4[m !322 SSTS新增规则：CVE-2023-52739 Merge pull request !322 from ywZhang/master
+[33me481632[m !333 2025年08月安全公告 Merge pull request !333 from wangchen/0805
+[33m1d0acad[m 2025年08月安全公告 close #ICRAMI Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m5a682b8[m !324 2025年07月安全公告 Merge pull request !324 from wangchen/0701_sec
+[33m68bdf8e[m 2025年07月安全公告 close #ICJ944 Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m0582105[m 新增CVE-2023-52739漏洞测试用例及规则 Signed-off-by: lzforevr <2693611448@qq.com>
+[33m19367cb[m !306 公告部分内容修复 Merge pull request !306 from wangchen/0603_b
+[33mbe171b2[m 公告部分内容修复 close #ICC7H2 Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m05be83e[m !305 新增2025年06月安全公告 Merge pull request !305 from wangchen/0603
+[33mfdf010e[m 新增2025年06月安全公告 close #ICC6LR Signed-off-by: wangchen <wangchen240@huawei.com>
+[33m633a4cd[m Signed-off-by: q879dh10982 <a18983188288@126.com>
+[33mbef2c27[m Signed-off-by: q879dh10982 <a18983188288@126.com>
+[33m5284605[m !303 新增2025年05月安全公告 Merge pull request !303 from wangchen/0506_sec
+[33m20ea490[m 新增2025年05月安全公告
+[33mc0cfd75[m Signed-off-by: q879dh10982 <a18983188288@126.com>
+[33md22f514[m Signed-off-by: q879dh10982 <a18983188288@126.com>
+[33m4aa0187[m !302 依据OpenHarmony社区漏洞管理与治理组会议结论，新增/删减组员 Merge pull request !302 from ONa/master
+[33me7369d8[m 依据OpenHarmony社区漏洞管理与治理组会议结论，新增/删减组员
+[33me7ea43c[m 依据OpenHarmony社区漏洞管理与治理组会议结论，新增/删减组员
+[33m457f7b7[m !301 新增2025年04月安全公告 Merge pull request !301 from wangchen/0401
+[33ma449e93[m 新增2025年04月安全公告
+[33m7abbdde[m Signed-off-by: q879dh10982 <a18983188288@126.com>
+[33mfd27950[m !297 新增2025年03月安全公告 Merge pull request !297 from wangchen/0304_sec
+[33m905d7d8[m 新增2025年03月安全公告
+[33m6524edb[m !295 新增2025年02月安全公告 Merge pull request !295 from wangchen/0211_sec
+[33me21be93[m 新增2025年02月安全公告
+[33mad13b65[m !244 SSTS新增规则：CVE-2024-36270 Merge pull request !244 from 张博远/master
+[33mf012b8a[m !205 SSTS新增规则：CVE-2024-26585 Merge pull request !205 from 曲嘉恒/master
+[33m99d253b[m !192 SSTS新增规则：CVE-2024-26585 Merge pull request !192 from 谭植高/master
+[33m1e246d8[m !185 SSTS新增规则：CVE-2023-52868 Merge pull request !185 from Xty/master
+[33m221b1ab[m add CVE-2024-27004 files
+[33mf74190a[m 补充版权说明
+[33mdb2ccce[m update vulntest/SSTSTestcases/2024/09/CVE-2024-36270/TestCaseRule-OpenHarmony-CVE-2024-36270.yara.
+[33m528dce0[m !265 新增2025年01月安全公告 Merge pull request !265 from wangchen/0107_sec
+[33me320f68[m 新增2025年01月安全公告
+[33m6ee691c[m Add SSTS use case for CVE-2024-26684
+[33mffeaeb8[m !183 Add 2024\10\CVE-2024-41035 Merge pull request !183 from z798p/master
+[33m193c2d6[m !170 SSTS新增规则：CVE-2024-27399 Merge pull request !170 from 李姜宾/master
+[33m0900993[m !162 SSTS新增规则：CVE-2024-42115 Merge pull request !162 from xiaoliu/master
+[33m1f72500[m !160 SSTS新增规则：CVE-2024-35822&CVE-2024-41087 Merge pull request !160 from Lenaaa0/master
+[33m401a146[m !158 SSTS新增规则：CVE-2024-25739 Merge pull request !158 from 王雨辰/master
+[33m6d7fc3e[m !155 SSTS新增规则：CVE-2024-36008 Merge pull request !155 from pengfang/master
+[33mc7e2566[m !154 SSTS新增规则：CVE-2024-38588&CVE-2024-38577 Merge pull request !154 from ZhangYongxing/master
+[33mf759ee7[m !150 SSTS新增规则：CVE-2024-36941 & CVE-2023-52835 Merge pull request !150 from xutianyao/master
+[33m3e76c93[m !142 SSTS新增规则：CVE-2024-42114 & CVE-2024-39467 Merge pull request !142 from zeng11/master
+[33m87719f8[m !199 SSTS新增规则：CVE-2024-35969 Merge pull request !199 from sky_in/myfeature
+[33m8535345[m update vulntest/SSTSTestcases/2024/10/CVE-2024-41035/TestCaseInfo-CVE-2024-41035.json.
+[33m367b612[m !251 修改OpenHarmony安全漏洞奖励计划公钥文件内容以及中英文OpenHarmony安全漏洞奖励计划介绍中的PGP公钥超链接为https://gitee.com/openharmony/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc Merge pull request !251 from cuttieorange/master
+[33m3982d93[m update en/security-process/rewards_program.md. 修改OpenHarmony安全漏洞奖励计划en介绍里的PGP公钥为https://gitee.com/openharmony/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc
+[33mb24a3e6[m update zh/security-process/rewards_program.md. 修改OpenHarmony安全漏洞奖励计划zh介绍里的PGP公钥为https://gitee.com/openharmony/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc
+[33m45d89e4[m update en/security-process/rewards_program.md.
+[33me2eea38[m add 05 folder and CVE-2024-27004 files
+[33mc5b0470[m update zh/security-process/rewards_program.md. 修改英文版OpenHarmony安全漏洞奖励计划PGP加密公钥地址为https://gitee.com/cuttieorange/security/blob/master/publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc
+[33m3407abc[m update en/security-process/rewards_program.md. 修改英文版漏洞奖励计划介绍中的PGP公钥地址
+[33m50c5db7[m update publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc. 修改公钥
+[33m41b37fa[m update vulntest/SSTSTestcases/2024/08/CVE-2024-36941/TestCaseRule-CVE-2024-36941.json.
+[33m9369311[m update TestcaseRule-OpenHarmony-CVE-2024-41087 Signed-off-by: Lenaaa0 <2487478719@qq.com>
+[33mcf9e65e[m add SSTSTestcases-CVE-2024-41087
+[33m84b100b[m update
+[33mdb76aa3[m add TestCaseRule-OpenHarmony-CVE-2024-36270.yara file
+[33m22e18aa[m updaterules
+[33mfca72ba[m 修改月份
+[33mf21b713[m update vulntest/SSTSTestcases/2024/08/CVE-2024-36008/TestCaseInfo-CVE-2024-36008.json.
+[33m7af9eeb[m add .
+[33mc6ec967[m add CVE-2023-52868 file
+[33me8c0b90[m 修正CVE-2024-40971的补丁信息，将版本号格式从“4.0.*”更改为“4.0.x” Signed-off-by: 谭植高 <1969206426@qq.com>
+[33mf7e7473[m 更新CVE-2024-40971规则的日期为2024-12-10 Signed-off-by: 谭植高 <1969206426@qq.com>
+[33m0e15e8a[m update vulntest/SSTSTestcases/2024/10/CVE-2024-41035/TestCaseRule-CVE-2024-41035.yara.
+[33m9f906f4[m SSTS新增规则：CVE-2024-26585
+[33mcd81de3[m SSTS新增规则：CVE-2024-26585 Signed-off-by: 谭植高 <1969206426@qq.com>
+[33m5a46b7e[m update vulntest/SSTSTestcases/2024/10/CVE-2024-41035/TestCaseInfo-CVE-2024-41035.json.
+[33meb4089a[m update vulntest/SSTSTestcases/2024/10/CVE_2024_42115/TestCaseInfo-CVE-2024-42115.json.
+[33m7b4b1a7[m !177 SSTS新增规则：CVE-2024-38601 Merge pull request !177 from xyf/master
+[33md9a5f0d[m !159 SSTS新增规则: CVE-2024-38564 Merge pull request !159 from Octane/CVE-2024-38564
+[33mf9b3ce8[m !156 SSTS新增规则: CVE-2023-52672 Merge pull request !156 from Octane/master
+[33m26d25a1[m !174 SSTS新增规则：CVE-2024-26733 Merge pull request !174 from 魏彦杰/master
+[33mf4fadcd[m !147 SSTS新增规则：CVE-2024-36901 Merge pull request !147 from ZhaoKehan/master
+[33m778a135[m !145 SSTS新增规则：CVE-2024-35947 Merge pull request !145 from 李孜炎/master
+[33m3867e8a[m !135 SSTS新增规则：CVE-2024-4603 & CVE-2024-36940 Merge pull request !135 from ChenFuLong/master
+[33m920d215[m CVE-2024-35969
+[33mce87008[m Fix CVE-2023-52672 TestCase json
+[33mc5fab34[m Fix CVE-2024-38564 TestCase json
+[33md3ff315[m !202 当前奖励计划和社区SCY邮箱共用一个PGP公钥，解密可能存在时延，影响登记效率；更换为OpenHarmony漏洞奖励计划自己创建的公钥。 Merge pull request !202 from cuttieorange/master
+[33m8bab46c[m update vulntest/SSTSTestcases/2024/08/CVE-2024-27399/TestCaseInfo-CVE-2024-27399.json.
+[33mbea47c5[m update vulntest/SSTSTestcases/2024/08/CVE-2024-27399/TestCaseRule-CVE-2024-27399.yara.
+[33m3d520ed[m 09 Signed-off-by: Zhangyongxing <1965473687@qq.com>
+[33m0de3445[m add publicKey/Bugbounty-OpenHarmony_PGP_Publickey.asc. 当前奖励计划和社区SCY邮箱共用一个PGP公钥，解密可能存在时延，影响登记效率；更换为OpenHarmony漏洞奖励计划自己创建的公钥。
+[33ma738b02[m CVE-2024-35969
+[33m41af1f3[m CVE-2024-35969
+[33m4601fdf[m add 10 file
+[33m281af44[m add 09 file
+[33m085944b[m SSTS新增规则：CVE-2024-26585 Signed-off-by: 谭植高 <1969206426@qq.com>
+[33m4c152f1[m add CVE-2023-52868 file
+[33m54c321e[m Your commit message
+[33ma4b5d7c[m add ssts rule CVE-2024-38601
+[33m9016029[m add 10 file
+[33m3e9c1a1[m add 09 file
+[33ma1bc068[m add 10 file
+[33ma4cc54b[m add 09 file
+[33m8259a38[m SSTS
+[33m741c71a[m add 08
+[33m5a4cd21[m Signed-off-by: 李姜宾 <879460855@qq.com>
+[33ma8679c1[m SSTS新增规则：CVE-2024-42115
+[33m8669db1[m add08
+[33m1fd49bd[m SSTS新增规则：CVE_2024_42115
+[33m40c01f4[m Add TestCase for CVE-2023-52672
+[33m6fe3484[m Add TestCase for CVE-2024-38564
+[33m4189d1c[m add SSTSTestcases CVE-2024-35822
+[33m8ca8683[m add 10 file
+[33ma76f04c[m add 09 file
+[33m5e7c85c[m change 06 to 10(month)
+[33mb5aa415[m cve-2024-25739
+[33m43304d4[m improve the rule
+[33mcb4fdba[m 提交信息
+[33maa416fc[m !120 SSTS新增规则：CVE-2024-27038&CVE-2023-52781 Merge pull request !120 from lvpeng/master
+[33mc7cf032[m 09 Signed-off-by: Zhangyongxing <1965473687@qq.com>
+[33m9c9215c[m !115 SSTS新增规则：CVE-2024-36899&CVE-2024-36939 Merge pull request !115 from Liushiming/master
+[33m74085e9[m !114 SSTS新增规则：CVE-2024-26883&CVE-2024-26884&CVE-2024-26934 Merge pull request !114 from LuoYuhang/master
+[33mb7968ab[m !127 SSTS新增规则：CVE-2024-28182&CVE-2024-5535 Merge pull request !127 from ZhuHuangCheng/master
+[33m7e16e42[m SSTS
+[33md02fcbc[m add security\vulntest\SSTSTestcases\2024\08
+[33mc4f429a[m Add 08 fixed
+[33ma728720[m Add 07 and 08
+[33m3d65101[m Add 08
+[33m9ab6610[m add ssts rule
+[33m4294895[m add 10 file
+[33m6a45cf3[m add 10 file
+[33m05f5805[m add 09 file
+[33m348cac0[m add 09 file
+[33m5a65841[m add 09 file
+[33ma2e7be2[m SSTS
+[33m8ca5d90[m Add 08
+[33mecd4435[m Add 07 and 08
+[33m92b7e2c[m update vulntest/SSTSTestcases/2024/08/CVE-2023-52781/vul_info_2024_08.json.
+[33m139d349[m update vulntest/SSTSTestcases/2024/08/CVE-2023-52781/CVE-2023-52781.yara.
+[33m8aaa5e4[m update vulntest/SSTSTestcases/2024/07/CVE-2024-27038/vul_info_2024_07.json.
+[33m40e2dfe[m update vulntest/SSTSTestcases/2024/07/CVE-2024-27038/vul_info_2024_07.json.
+[33mdc85b48[m update vulntest/SSTSTestcases/2024/07/CVE-2024-27038/CVE-2024-27038.yara.
+[33m49dace4[m SSTS
+[33me1a59eb[m update vulntest/SSTSTestcases/2024/08/CVE-2023-52781/vul_info_2024_08.json.
+[33mcd84315[m update vulntest/SSTSTestcases/2024/07/CVE-2024-27038/vul_info_2024_07.json.
+[33ma421316[m Signed-off-by: lvpeng <2022211604@bupt.cn>
+[33mfbf5b71[m !112 添加新成员-2024.11月 社区漏洞管理与治理组新成员扩展 Merge pull request !112 from ONa/master
+[33m4dd3f27[m Add 08
+[33m02515ff[m Add 08
+[33mc92968a[m Add 08
+[33m336d4e0[m Add 08
+[33m6d378e0[m Add 07 and 08
+[33m207c14d[m !113 SSTS新增规则：CVE-2024-2398 & CVE-2024-2478 Merge pull request !113 from HongLanx/master
+[33m9591575[m Update Rules
+[33m9c6ad59[m 添加新成员-2024.11月 社区漏洞管理与治理组新成员扩展
+[33m7dcb173[m    添加新成员-2024.11月 社区漏洞管理与治理组新成员扩展
+[33m39732c1[m !110 2024年12月公告修复 Merge pull request !110 from wangchen/1203
+[33mab18fc6[m close #IB8ND6 Signed-off-by: wangchen <wangchen240@huawei.com> https://gitee.com/openharmony/security/issues/IB8ND6
+[33m0d30d86[m !104 update publicKey Merge pull request !104 from ONa/master
+[33m9986df1[m update publicKey/Scy-OpenHarmony_publickey.asc
+[33m651be09[m !101 2024年11月公告修复 Merge pull request !101 from wangchen/1105
+[33m463f018[m 新增2024年11月安全公告
+[33ma7afdf0[m !99 主页面及关卡选择 Merge pull request !99 from 张国胤/master
+[33m779929f[m !100 新增2024年10月安全公告 Merge pull request !100 from wangchen/1008_sec
+[33m569a736[m 新增2024年10月安全公告
+[33m07a2b8b[m 主页，关卡选择，第一关
+[33mcda7f6c[m 主页、选关界面、第一关
+[33md1d9d31[m 主界面及关卡选择界面
+[33mfe603e0[m !98 新增2024年09月安全公告 Merge pull request !98 from wangchen/0909_up
+[33m3d83159[m 新增2024年9月安全公告 close #IANXMM Signed-off-by: wangchen <wangchen240@huawei.com>
+[33me4d1b73[m !96 漏洞测试新增training目录 Merge pull request !96 from zhangjingyu/master
+[33m0348d40[m Update 调整漏洞测试目录结构，新增training目录
+[33m45ca0ce[m !95 新增2024年08月安全公告 Merge pull request !95 from wangchen/0806
+[33m8427635[m 新增2024年8月安全公告
+[33mf82d0f1[m !94 新增2024年07月安全公告 Merge pull request !94 from wangchen/0702_sec
+[33me94fe9a[m 新增2024年7月安全公告
+[33m445a4da[m !93 新增2024年06月安全公告 Merge pull request !93 from wangchen/0604_sec
+[33m17a68d2[m 新增2024年6月安全公告
+[33m2d21f5e[m !91 添加新成员-0417 社区漏洞管理与治理组新成员扩展 Merge pull request !91 from ONa/master
+[33m975c60d[m !92 新增2024年5月安全公告 Merge pull request !92 from wangchen/0507_sec
+[33m419c56d[m 更新2024年5月安全公告
+[33mda7d198[m 添加新成员-0417 社区漏洞管理与治理组新成员扩展
+[33m2c833bf[m 添加新成员-0417 社区漏洞管理与治理组新成员扩展
+[33m8f90dd1[m !90 新增2024年4月安全公告 Merge pull request !90 from wangchen/0402
+[33m0d25e3e[m 新增2024年4月安全公告
+[33m3005b17[m !89 新增2024年3月安全公告 Merge pull request !89 from wangchen/0304_sec
+[33me9f9410[m 更新2024年3月安全公告
+[33m99f09dd[m !77 SSTS新增规则：CVE-2022-30787 Merge pull request !77 from Antonsma/master
+[33m76b749a[m !88 新增2024年2月安全公告 Merge pull request !88 from wangchen/0202_sec
+[33me0a67dc[m 更新2024年2月安全公告
+[33ma1ed17f[m STSS安全规则 CVE-2022-30787
+[33m294c727[m !74 SSTS新增规则：CVE-2022-4450 Merge pull request !74 from 久樊/master
+[33m99e0ea8[m !61 SSTS新增规则：CVE-2023-23914 Merge pull request !61 from Alfrodull/master
+[33m4eeec5b[m !48 SSTS用例增加类型字段 Merge pull request !48 from zhangjingyu/master
+[33m4f860e2[m STSS规则 CVE-2022-30787“
+[33m7636b21[m STSS规则 CVE-2022-30787
+[33mf76d775[m CVE-2022-30787 STSS规则
+[33m92a4cd7[m SSTS新增规则：CVE-2022-4450
+[33m6ad4251[m SSTS CVE-2023-23914
+[33mc99f129[m SSTS
+[33md59676d[m !51 2024年1月公告修复 Merge pull request !51 from wangch
