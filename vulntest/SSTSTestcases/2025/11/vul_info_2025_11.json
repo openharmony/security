@@ -1,0 +1,118 @@
+{
+    "month": "2025-11",
+    "release_time": "",
+    "vulnerabilities": [
+        {
+            "month": "2025-11",
+            "vul_id": {
+                "cve": "CVE-2025-22008",
+                "openharmony-sa": ""
+            },
+            "severity": "medium",
+            "vul_description": {
+                "zh": "在Linux内核的regulator子系统中，regulator_resolve_supply函数缺少对dummy_regulator_rdev指针的空指针检查，可能导致内核空指针解引用。",
+                "en": "In the Linux kernel regulator subsystem, the regulator_resolve_supply function lacks a null pointer check for the dummy_regulator_rdev pointer, which may lead to kernel null pointer dereference."
+            },
+            "vul_impact": {
+                "zh": "该漏洞可能导致内核空指针解引用，造成系统崩溃或拒绝服务。",
+                "en": "This vulnerability may lead to kernel null pointer dereference, causing system crash or denial of service."
+            },
+            "disclosure": {
+                "zh": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2025/2025-11.md",
+                "en": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2025/2025-11.md"
+            },
+            "patch_info": {
+                "5.0.x": {
+                    "patch_url": [
+                        "https://gitee.com/openharmony/kernel_linux_5.10/commit/相关补丁提交"
+                    ],
+                    "patch_file": [
+                        "https://gitee.com/openharmony/kernel_linux_5.10/commit/相关补丁提交.patch"
+                    ],
+                    "diff_file": [
+                        "https://gitee.com/openharmony/kernel_linux_5.10/commit/相关补丁提交.diff"
+                    ]
+                }
+            },
+            "affected_projects": "kernel_linux_5.10",
+            "object_type": "kernel_linux",
+            "affected_versions": [
+                "5.0.0-5.0.3"
+            ],
+            "affected_device": {
+                "mini": {
+                    "liteos": {
+                        "risc-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+                "small": {
+                    "liteos": {
+                        "risc-v": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    },
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                },
+                "standard": {
+                    "linux": {
+                        "arm": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": true,
+                                    "yara": {
+                                        "affected_files": [
+                                            "/dev/block/platform/fe310000.sdhci/by-name/boot_linux"
+                                        ],
+                                        "yara_rules": [
+                                            "CVE-2025-22008.yara"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "arm64": {
+                            "scan_strategy": {
+                                "ssts": {
+                                    "enable": false
+                                },
+                                "ists": {
+                                    "enable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
