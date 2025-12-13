@@ -22,7 +22,7 @@ rule CVE_2025_38466
 {
     meta:
 		date = "20250922"
-		file = "kernel/events/core.c"
+		file = "kernel/fs/namespace.c"
 
     strings:
         $fix_flag = { 62 09 00 34 }
