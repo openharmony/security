@@ -103,7 +103,7 @@
                                             "/dev/block/platform/fe310000.sdhci/by-name/boot_linux"
                                         ],
                                         "yara_rules": [
-                                            "CVE-2025-38466.yara"
+                                            "CVE-2025-38125.yara"
                                         ]
                                     }
                                 }
