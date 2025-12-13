@@ -1,5 +1,5 @@
 /* 
- * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Copyright (c) 2025 Beijing University of Posts and Telecommunications
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,15 +17,15 @@
 import "console"
 import "elf"
 
-
 rule CVE_2025_38125
 {
     meta:
-		date = "20250922"
-		file = "kernel/fs/namespace.c"
+        date = "20250922"
+        file = "/dev/block/platform/fe310000.sdhci/by-name/boot_linux"
 
     strings:
         $fix_flag = { 62 09 00 34 }
+
     condition:
-        $fix_flag
+        $fix_flag and console.log("CVE-2025-38125 testcase pass")
 }
