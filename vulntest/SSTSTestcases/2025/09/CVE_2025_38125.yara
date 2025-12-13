@@ -18,7 +18,7 @@ import "console"
 import "elf"
 
 
-rule CVE_2025_38466
+rule CVE_2025_38125
 {
     meta:
 		date = "20250922"
