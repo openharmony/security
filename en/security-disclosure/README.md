@@ -2,6 +2,7 @@
 
 This document describes the security vulnerabilities of OpenHarmony.
 ## Security Vulnerabilities in 2026
+**[Security Vulnerabilities in Feburary](https://gitcode.com/openharmony/security/blob/master/en/security-disclosure/2026/2026-02.md)**  
 **[Security Vulnerabilities in January](https://gitcode.com/openharmony/security/blob/master/en/security-disclosure/2026/2026-01.md)**  
 
 ## Security Vulnerabilities in 2025
