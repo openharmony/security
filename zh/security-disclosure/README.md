@@ -2,6 +2,7 @@
 
 本文档主要发布OpenHarmony软件的安全漏洞公告。
 ## 2026年安全漏洞
+**[2026年06月安全漏洞](https://gitcode.com/openharmony/security/blob/master/zh/security-disclosure/2026/2026-06.md)**  
 **[2026年05月安全漏洞](https://gitcode.com/openharmony/security/blob/master/zh/security-disclosure/2026/2026-05.md)**  
 **[2026年04月安全漏洞](https://gitcode.com/openharmony/security/blob/master/zh/security-disclosure/2026/2026-04.md)**  
 **[2026年03月安全漏洞](https://gitcode.com/openharmony/security/blob/master/zh/security-disclosure/2026/2026-03.md)**  
